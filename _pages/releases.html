@@ -5,3 +5,11 @@ permalink: /releases/
 ---
 
 <h1 class="text-center">Releases</h1>
+
+<ul>
+  {% for release in site.data.releases %}
+    <li>
+      {{release.name}}<br />{{release.year}}
+    </li>
+  {% endfor %}
+</ul>
