@@ -1,0 +1,54 @@
+#SITE SETTINGS
+title:
+  en: This is an en website
+  nl: Dit is een nl website
+description:
+  en: This is a great website
+  nl: Dit is een prima website
+keywords:
+  en: shoes
+  nl: schoenen
+index:
+  en: /en/catalog
+  nl: /nl/cataloog
+baseurl: /channelzero
+exclude: ['README.md']
+
+
+#lANG NAVIGATION
+navi:
+  en:
+    catalog:
+      name: Catalog
+      url: /catalog
+    register:
+      name: Register
+      url: /register
+    login:
+      name: Login
+      url: /login
+    how-to-order: 
+      name: How to order
+      url: /how-order
+  nl:
+    catalog:
+      name: Cataloog
+      url: /cataloog
+    register:
+      name: Registreren
+      url: /registreren
+    login:
+      name: Inloggen
+      url: /inloggen
+    how-to-order: 
+      name: Hoe bestellen
+      url: /hoe-bestellen
+      
+#BLOCKS
+blocks:
+  en:
+    jumbo: header-en.html
+    footer: footer-en.html
+  nl:
+    jumbo: header-nl.html
+    footer: footer-nl.html
