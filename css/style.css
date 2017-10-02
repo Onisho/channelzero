@@ -1,0 +1,23 @@
+/* general */
+body {background-color:#000000;color:#E5E3CC;}
+
+/* social */
+.social {display:inline-block;width:45px;height:45px;text-indent:-9999px;}
+.social.facebook {background:url('../img/social.png');}
+.social.instagram {background:url('../img/social.png') 45px 0;}
+.social.twitter {background:url('../img/social.png') 90px 0;}
+
+/* buttons */
+.btn {border-radius:1rem;text-transform:uppercase;font-size:.8rem;}
+.btn-primary {background-color:#C91419;border-color:#C91419;color:#E5E3CC;}
+.btn-primary:hover {background-color:#C91419;border-color:#C91419;color:#000000;}
+.btn-secondary {background-color:#E5E3CC;border-color:#E5E3CC;color:#000000;}
+.btn-secondary:hover {background-color:#E5E3CC;border-color:#E5E3CC;color:#C91419;} 
+
+/* cards */
+.card-band,
+.card-release,
+.card-tourdate {background-color:transparent;color:#E5E3CC;}
+
+/* footer */
+footer {background-color:#333333;}

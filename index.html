@@ -3,4 +3,64 @@ layout: front
 title: site
 ---
 
-<h1 class="text-center">Homepage</h1>
+
+<section class="content mt-3">
+  <div class="container">
+    <div class="row align-items-center text-center">
+      <div class="col-12 order-2 col-sm-4 order-sm-1 mb-3">
+        <a href="" class="btn btn-primary">Buy album</a>
+    </div>
+    <div class="col-12 order-1 col-sm-4 order-sm-2 mb-2">
+      <h3>New Release</h3>
+      <h1>Exit Humanity</h1>
+      <h3>Out November 2017</h3>
+    </div>
+   <div class="col-12 order-3 col-sm-4 order-sm-3 mb-3">
+     <a href="" class="btn btn-secondary">Listen to album</a>
+      </div>
+      <div class="col-12 order-4 mb-3">
+        <a href="{{site.baseurl}}/tour-dates" title="tour dates" class="btn btn-primary">Tour Dates</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="covers">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-3"></div>
+    </div>
+  </div>
+</section>
+
+<section class="tourdates">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="h1 text-center mb-4">Upcoming tour dates</h2>
+        {% assign tourItems = site.data.tour-dates | sort: 'date' %}
+        <div class="card-deck">
+          {% for item in tourItems limit:3 %}
+          <div class="card card-tourdate text-center">
+            <div class="card-header">
+              {% assign myDate = item.date | split: "-" %}
+              <span class="year d-block">{{myDate[2]}}</span>
+              <span class="day d-block">{{myDate[1]}}</span>
+              <span class="day d-block">{{myDate[0]}}</span>
+            </div>
+            <div class="card-body">
+              <h4 class="card-title">{{item.place}}</h4>
+              <p class="card-subtitle">{{item.gig}}<br />{{item.address}}</p>
+              </p>
+            </div>
+            <div class="card-footer">
+              <p><a href="" class="btn btn-primary">Get Tickets</a></p>
+              <p><a href="" class="btn btn-secondary">More Info</a></p>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -3,13 +3,49 @@ layout: default
 title: site
 permalink: /releases/
 ---
+<h1 class="text-center mb-4">Latest Release</h1>
 
-<h1 class="text-center">Releases</h1>
+<div class="row mb-5">
+  <div class="col-sm-6">
+    <img src="{{site.baseurl}}/img/album-exit-humanity.jpg" alt="exit humanity" class="img-fluid" />
+  </div>
+  <div class="col-sm-6 p-5">
+    <h3>Exit Humanity<br /><em>Out November 2017</em></h3>
+    <ol class="p-3">
+      <li>BLOOD LETTERS</li>  
+      <li>WISH YOU WELL</li>
+      <li>EXIT HUMANITY</li>
+      <li>MENTAL BREAKDOWN</li>
+      <li>LET THE GAMES BEGIN</li>
+      <li>ELEPHANT IN THE ROOM</li>
+      <li>DARK NET</li>
+      <li>REFUGEE</li>
+      <li>FREAK</li>
+      <li>SLIP AWAY</li>
+      <li>SAID AND DONE</li>
+      <li>FUEL CIRCLE</li>
+    </ol>
+    <div class="row">
+      <div class="col-12">
+        <a href="#" title="itunes"><img src="{{site.baseurl}}/img/icon-itunes.png" class="img-fluid" /></a> <a href="#" title="spotify" class="ml-2"><img src="{{site.baseurl}}/img/icon-spotify.png" class="img-fluid" /></a>
+      </div>
+    </div>
+  </div>
+</div>
 
-<ul>
+
+<h2 class="h1 text-center mb-4">Releases</h2>
+
+<div class="row">
   {% for release in site.data.releases %}
-    <li>
-      {{release.name}}<br />{{release.year}}
-    </li>
+  <div class="col-sm-6 col-md-4 col-lg-3">
+    <div class="card card-release">
+      <img class="card-img-top" src="{{site.baseurl}}/img/{{release.image}}" alt="{{release.name}}">
+      <div class="card-body">
+        <h4 class="card-title">{{release.name}}</h4>
+        <p class="card-text">{{release.year}}</p>
+      </div>
+    </div>
+  </div>
   {% endfor %}
-</ul>
+</div>

@@ -4,5 +4,23 @@ title: site
 permalink: /tour-dates/
 ---
 
-<h1 class="text-center">Tour Dates</h1>
+<h1 class="text-center mb-4">Tour Dates</h1>
 
+{% assign tourItems = site.data.tour-dates | sort: 'date' %}
+{% for item in tourItems %}
+<div class="row mb-3 border border-top-0 border-left-0 border-right-0">
+  <div class="col-2 col-sm-2">
+    {% assign myDate = item.date | split: "-" %}
+    <span class="year d-block">{{myDate[2]}}</span>
+    <span class="day d-block">{{myDate[1]}}</span>
+    <span class="day d-block">{{myDate[0]}}</span>
+  </div>
+  <div class="col-10 col-sm-6">
+    <h4>{{item.place}}</h4>
+    <p>{{item.gig}}<br /><small>{{item.address}}</small></p>
+  </div>
+  <div class="col-12 col-sm-4 mb-3 text-sm-right">
+    <a href="{{tour.tickets}}" role="button" class="btn btn-primary">Tickets</a> <a href="{{tour.info}}" role="button" class="btn btn-secondary">Info</a>
+  </div>
+</div>
+{% endfor %}
