@@ -6,6 +6,7 @@
   <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
   <meta name="keywords" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.keywords[page.lang] | escape }}{% endif %}">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/open-iconic-bootstrap.css">
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/style.css">
   
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}

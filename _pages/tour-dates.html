@@ -4,23 +4,25 @@ title: site
 permalink: /tour-dates/
 ---
 
-<h1 class="text-center mb-4">Tour Dates</h1>
+<h1 class="text-center red">Tour Dates</h1>
 
 {% assign tourItems = site.data.tour-dates | sort: 'date' %}
 {% for item in tourItems %}
 <div class="row mb-3 border border-top-0 border-left-0 border-right-0">
   <div class="col-2 col-sm-2">
-    {% assign myDate = item.date | split: "-" %}
-    <span class="year d-block">{{myDate[2]}}</span>
-    <span class="day d-block">{{myDate[1]}}</span>
-    <span class="day d-block">{{myDate[0]}}</span>
+    {% assign myDate = item.date | date_to_string |split: " " %}
+    <div class="date d-inline-block">
+      <span class="month d-block">{{myDate[1]}}</span>
+      <span class="day d-block">{{myDate[0]}}</span>
+      <span class="year d-block">{{myDate[2]}}</span>
+    </div>
   </div>
   <div class="col-10 col-sm-6">
     <h4>{{item.place}}</h4>
-    <p>{{item.gig}}<br /><small>{{item.address}}</small></p>
+    <p>{{item.gig}}<br /><small>{{item.address}} <a href="https://maps.google.com/?q={{item.address}}" rel="external"><span class="oi oi-icon-flag" title="icon name" aria-hidden="true"></span>view map</a></small></p>
   </div>
   <div class="col-12 col-sm-4 mb-3 text-sm-right">
-    <a href="{{tour.tickets}}" role="button" class="btn btn-primary">Tickets</a> <a href="{{tour.info}}" role="button" class="btn btn-secondary">Info</a>
+    <a href="{{item.tickets}}" role="button" class="btn btn-primary mx-2" rel="external">Tickets</a> <a href="{{item.info}}" role="button" class="btn btn-secondary" rel="external">Info</a>
   </div>
 </div>
 {% endfor %}

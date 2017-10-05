@@ -1,6 +1,26 @@
 /* general */
 body {background-color:#000000;color:#E5E3CC;}
 
+/* fonts */
+@font-face {
+  font-family: "Bad Grunge";
+  src: url('fonts/badgrunge.woff')format('woff');
+  src: url('fonts/badgrunge.ttf')format('ttf');  
+}
+
+/* colors */
+.red {color:#C91419;}
+.wht {color:#E5E3CC;}
+.blk {color:#000000;}
+a, a:hover {color:#C91419;}
+
+/* typo */
+h1, .h1 {font-family: "Bad Grunge",sans-serif;font-size:6rem;margin-bottom:5rem;margin-top:1rem;text-shadow:1px 1px 1px #000000;}
+small {color:#9a9988;}
+
+/* backgrounds */
+.bg-1 {background:url('../img/bg1.jpg') center top no-repeat;}
+
 /* social */
 .social {display:inline-block;width:45px;height:45px;text-indent:-9999px;}
 .social.facebook {background:url('../img/social.png');}
@@ -8,7 +28,7 @@ body {background-color:#000000;color:#E5E3CC;}
 .social.twitter {background:url('../img/social.png') 90px 0;}
 
 /* buttons */
-.btn {border-radius:1rem;text-transform:uppercase;font-size:.8rem;}
+.btn {border-radius:.75rem;text-transform:uppercase;font-size:.8rem;}
 .btn-primary {background-color:#C91419;border-color:#C91419;color:#E5E3CC;}
 .btn-primary:hover {background-color:#C91419;border-color:#C91419;color:#000000;}
 .btn-secondary {background-color:#E5E3CC;border-color:#E5E3CC;color:#000000;}
@@ -20,4 +40,15 @@ body {background-color:#000000;color:#E5E3CC;}
 .card-tourdate {background-color:transparent;color:#E5E3CC;}
 
 /* footer */
-footer {background-color:#333333;}
+footer {background:#191919 url('../img/footer.png') center top;color:#95989A;background-size:cover;}
+footer a, footer a:hover {color:#C91419;cursor:pointer;}
+
+/* dates */
+.date {background-color:#191919;padding: 3px 9px;}
+.day {font-size:1.8rem;line-height:1.5rem;}
+.month {text-transform:uppercase;}
+.year {font-size:.9rem;}
+
+/* cards */
+.band .card-title {font-size:.8rem;text-transform:uppercase;}
+.band .card-text {font-size:.8rem;text-transform:uppercase;}
