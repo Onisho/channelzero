@@ -4,6 +4,27 @@ title: site
 permalink: /media/
 ---
 
-<section class="cover cover-media"></section>
+<section class="cover">
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gD4Se5lQf10?autoplay=1&showinfo=0&controls=0&autohide=1" allowfullscreen></iframe>
+</div>
+</section>
 
-<h1 class="text-center">Media</h1>
+<section class="content">
+  <div class="container">
+    <div class="row">
+      {% for youtube in site.data.youtube %}
+      <div class="col-6">
+         <div class="embed-responsive embed-responsive-16by9">
+           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{youtube.embed}}?showinfo=0&autohide=1" allowfullscreen></iframe>
+        </div> 
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row">
+      <div class="col-12 text-center">
+        <a href="https://www.youtube.com/user/thebandchannelzero" role="button" class="btn btn-primary mx-2" rel="external">View more on Youtube</a>
+      </div>
+    </div>
+  </div>
+</section>

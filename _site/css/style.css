@@ -4,13 +4,13 @@ body {background-color:#000000;color:#E5E3CC;}
 /* fonts */
 @font-face {
   font-family: "Bad Grunge";
-  src: url('fonts/badgrunge.woff')format('woff');
-  src: url('fonts/badgrunge.ttf')format('ttf');  
+  src: url('../fonts/badgrunge.woff')format('woff');
+  src: url('../fonts/badgrunge.ttf')format('truetype');  
 }
 @font-face {
   font-family: "Alien League";
-  src: url('fonts/alienleague.woff')format('woff');
-  src: url('fonts/alienleague.ttf')format('ttf');  
+  src: url('../fonts/alienleague.woff')format('woff');
+  src: url('../fonts/alienleague.ttf')format('truetype');  
 }
 
 
@@ -26,6 +26,7 @@ h3.highlight, .h3.highlight {font-family: "Bad Grunge",sans-serif;font-size:4rem
 h3.highlight em, .h3.highlight em {font-size:2rem;font-style:normal;}
 h4.highlight, .h4.highlight {font-family: "Bad Grunge",sans-serif;font-size:3rem;line-height:2rem;letter-spacing: 1px;}
 small {color:#9a9988;}
+.alien {font-family:"Alien League", sans-serif;font-size:2.2rem;}
 
 
 /* backgrounds */
@@ -41,7 +42,7 @@ small {color:#9a9988;}
 .social.twitter {background:url('../img/social.png') 90px 0;}
 
 /* buttons */
-.btn {border-radius:.75rem;text-transform:uppercase;font-size:.8rem;}
+.btn {border-radius:.75rem;text-transform:uppercase;font-size:.8rem;font-family:"Alien League", sans-serif;font-size:1.2rem;}
 .btn-primary {background-color:#C91419;border-color:#C91419;color:#E5E3CC;}
 .btn-primary:hover {background-color:#C91419;border-color:#C91419;color:#000000;}
 .btn-secondary {background-color:#E5E3CC;border-color:#E5E3CC;color:#000000;}
@@ -55,7 +56,7 @@ small {color:#9a9988;}
 .card-tourdate {background:url('../img/card-bg.jpg') center bottom no-repeat;background-size:cover;}
 .card-tourdate .card-header {background:#1D1D1D url('../img/card-header-bg.jpg') top center;}
 .card-band .card-title {font-size:.8rem;text-transform:uppercase;}
-.card-band .card-text {font-size:.8rem;text-transform:uppercase;}
+.card-band .card-text {font-size:1rem;text-transform:uppercase;}
 
 /* navigation */
 .navbar-cz {background-color:#000000;color:#E5E3CC;}
@@ -80,3 +81,4 @@ footer a, footer a:hover {color:#C91419;cursor:pointer;}
     .cover {background-attachment: scroll;}
 }
 
+iframe {border:none;}
