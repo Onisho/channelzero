@@ -4,7 +4,7 @@ title: site
 ---
 
 
-<section class="content mt-3">
+<section class="content bg-4 pb-5">
   <div class="container">
     <div class="row align-items-center text-center">
       <div class="col-12 order-2 col-sm-4 order-sm-1 mb-3">
@@ -26,27 +26,38 @@ title: site
 </section>
 
 <section class="covers">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-3"></div>
+  <div>
+    <div class="row no-gutters">
+      <div class="col-6 col-sm-4 col-md-3"><img src="{{site.baseurl}}/img/album-exit-humanity-1.jpg" alt="blood letters" class="img-fluid" /></div>
+      <div class="col-6 col-sm-4 col-md-3"><img src="{{site.baseurl}}/img/album-exit-humanity-2.jpg" alt="wish you well" class="img-fluid" /></div>
+      <div class="col-6 col-sm-4 col-md-3"><img src="{{site.baseurl}}/img/album-exit-humanity-3.jpg" alt="exit humanity" class="img-fluid" /></div>
+      <div class="col-6 col-sm-4 col-md-3"><img src="{{site.baseurl}}/img/album-exit-humanity-4.jpg" alt="mental breakdown" class="img-fluid" /></div>
+      <div class="col-6 col-sm-4 col-md-3"><img src="{{site.baseurl}}/img/album-exit-humanity-5.jpg" alt="let the games begin" class="img-fluid" /></div>
+      <div class="col-6 col-sm-4 col-md-3"><img src="{{site.baseurl}}/img/album-exit-humanity-6.jpg" alt="elephant in the room" class="img-fluid" /></div>
+      <div class="col-6 col-sm-4 col-md-3"><img src="{{site.baseurl}}/img/album-exit-humanity-7.jpg" alt="dark net" class="img-fluid" /></div>
+      <div class="col-6 col-sm-4 col-md-3"><img src="{{site.baseurl}}/img/album-exit-humanity-8.jpg" alt="refugee" class="img-fluid" /></div>
+      <div class="col-6 col-sm-4 col-md-3"><img src="{{site.baseurl}}/img/album-exit-humanity-9.jpg" alt="freak" class="img-fluid" /></div>
+      <div class="col-6 col-sm-4 col-md-3"><img src="{{site.baseurl}}/img/album-exit-humanity-10.jpg" alt="slip away" class="img-fluid" /></div>
+      <div class="col-6 col-sm-4 col-md-3"><img src="{{site.baseurl}}/img/album-exit-humanity-11.jpg" alt="said and done" class="img-fluid" /></div>
+      <div class="col-6 col-sm-4 col-md-3"><img src="{{site.baseurl}}/img/album-exit-humanity-12.jpg" alt="full circle" class="img-fluid" /></div>
     </div>
   </div>
 </section>
 
-<section class="tourdates">
+<section class="bg-1 tourdates">
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h2 class="h1 text-center mb-4">Upcoming tour dates</h2>
+        <h2 class="h1 text-center wht mt-5"><span class="d-none d-md-inline">Upcoming</span> tour dates</h2>
         {% assign tourItems = site.data.tour-dates | sort: 'date' %}
         <div class="card-deck">
           {% for item in tourItems limit:3 %}
-          <div class="card card-tourdate text-center">
+          <div class="card card-tourdate text-center mb-3">
             <div class="card-header">
-              {% assign myDate = item.date | split: "-" %}
-              <span class="year d-block">{{myDate[2]}}</span>
-              <span class="day d-block">{{myDate[1]}}</span>
+              {% assign myDate = item.date | date_to_string |split: " " %}
+              <span class="month d-block">{{myDate[1]}}</span>
               <span class="day d-block">{{myDate[0]}}</span>
+              <span class="year d-block">{{myDate[2]}}</span>
             </div>
             <div class="card-body">
               <h4 class="card-title">{{item.place}}</h4>
@@ -54,8 +65,8 @@ title: site
               </p>
             </div>
             <div class="card-footer">
-              <p><a href="" class="btn btn-primary">Get Tickets</a></p>
-              <p><a href="" class="btn btn-secondary">More Info</a></p>
+              <p><a href="{{item.tickets}}" role="button" class="btn btn-primary mx-2" rel="external">Tickets</a></p>
+              <p><a href="{{item.info}}" role="button" class="btn btn-secondary" rel="external">Info</a></p>
             </div>
           </div>
           {% endfor %}

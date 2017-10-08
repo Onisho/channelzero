@@ -7,6 +7,12 @@ body {background-color:#000000;color:#E5E3CC;}
   src: url('fonts/badgrunge.woff')format('woff');
   src: url('fonts/badgrunge.ttf')format('ttf');  
 }
+@font-face {
+  font-family: "Alien League";
+  src: url('fonts/alienleague.woff')format('woff');
+  src: url('fonts/alienleague.ttf')format('ttf');  
+}
+
 
 /* colors */
 .red {color:#C91419;}
@@ -15,11 +21,18 @@ body {background-color:#000000;color:#E5E3CC;}
 a, a:hover {color:#C91419;}
 
 /* typo */
-h1, .h1 {font-family: "Bad Grunge",sans-serif;font-size:6rem;margin-bottom:5rem;margin-top:1rem;text-shadow:1px 1px 1px #000000;}
+h1, .h1 {font-family: "Bad Grunge",sans-serif;font-size:6rem;margin-bottom:5rem;margin-top:1rem;text-shadow:1px 1px 1px #000000;line-height:4rem;}
+h3.highlight, .h3.highlight {font-family: "Bad Grunge",sans-serif;font-size:4rem;line-height:3rem;letter-spacing: 1px;}
+h3.highlight em, .h3.highlight em {font-size:2rem;font-style:normal;}
+h4.highlight, .h4.highlight {font-family: "Bad Grunge",sans-serif;font-size:3rem;line-height:2rem;letter-spacing: 1px;}
 small {color:#9a9988;}
+
 
 /* backgrounds */
 .bg-1 {background:url('../img/bg1.jpg') center top no-repeat;}
+.bg-2 {background:url('../img/bg2.jpg') center top no-repeat;color:#000000;background-size:cover;}
+.bg-3 {background:url('../img/bg3.jpg') center top no-repeat;color:#000000;background-size:cover;}
+.bg-4 {background:url('../img/bg4.jpg') center top no-repeat;background-size:cover;}
 
 /* social */
 .social {display:inline-block;width:45px;height:45px;text-indent:-9999px;}
@@ -36,8 +49,17 @@ small {color:#9a9988;}
 
 /* cards */
 .card-band,
-.card-release,
-.card-tourdate {background-color:transparent;color:#E5E3CC;}
+.card-release {background-color:transparent;color:#E5E3CC;}
+.card-release h5 {margin-bottom:0;font-size:1.1rem;}
+.card-release .card-text {color:#95989A;font-size:.9rem;}
+.card-tourdate {background:url('../img/card-bg.jpg') center bottom no-repeat;background-size:cover;}
+.card-tourdate .card-header {background:#1D1D1D url('../img/card-header-bg.jpg') top center;}
+.card-band .card-title {font-size:.8rem;text-transform:uppercase;}
+.card-band .card-text {font-size:.8rem;text-transform:uppercase;}
+
+/* navigation */
+.navbar-cz {background-color:#000000;color:#E5E3CC;}
+.nav-link {font-family:"Alien League", sans-serif;font-size:1.4rem;}
 
 /* footer */
 footer {background:#191919 url('../img/footer.png') center top;color:#95989A;background-size:cover;}
@@ -49,6 +71,12 @@ footer a, footer a:hover {color:#C91419;cursor:pointer;}
 .month {text-transform:uppercase;}
 .year {font-size:.9rem;}
 
-/* cards */
-.band .card-title {font-size:.8rem;text-transform:uppercase;}
-.band .card-text {font-size:.8rem;text-transform:uppercase;}
+/* covers */
+.cover {position:relative;background-attachment:fixed;background-position: center center;background-repeat:no-repeat;background-size:cover;}
+.cover-band {background-image: url('../img/cover-band.jpg');min-height:100%;}
+.cover-releases {background-image: url('../img/cover-releases.jpg');min-height:60%;}
+.cover-tour-dates {background-image: url('../img/cover-tour-dates.jpg');min-height:60%;}
+@media only screen and (max-device-width: 1024px) {
+    .cover {background-attachment: scroll;}
+}
+
