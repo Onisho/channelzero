@@ -1,3 +1,6 @@
+/* import */
+@import url('bricklayer.css');
+
 /* general */
 body {background-color:#000000;color:#E5E3CC;}
 
@@ -59,8 +62,19 @@ small {color:#9a9988;}
 .card-band .card-text {font-size:1rem;text-transform:uppercase;}
 
 /* navigation */
-.navbar-cz {background-color:#000000;color:#E5E3CC;}
-.nav-link {font-family:"Alien League", sans-serif;font-size:1.4rem;}
+.navbar-cz {color:#E5E3CC;background-color:#000000;}
+.navbar-dark .navbar-nav .nav-link {color:#E5E3CC;}
+.navbar-dark .navbar-nav .nav-link:hover {color:#C91419;}
+a.navbar-brand {color:#E5E3CC;}
+.nav-link {font-family:"Alien League", sans-serif;font-size:1.4rem;color:#E5E3CC;}
+.nav-link:hover {color:#C91419;}
+@media only screen and (min-width: 768px) {
+  .nav-link {padding-top:5.5rem;}
+  .nav-link.Home {background:url('../img/logo.png') no-repeat;width:300px;height:230px;background-size:contain;text-indent:-9999px;}
+  .navbar-cz {color:#E5E3CC;background:url('../img/nav.png') 0px 18px repeat-x;}
+  .front .navbar {margin-top:20%;}
+}
+
 
 /* footer */
 footer {background:#191919 url('../img/footer.png') center top;color:#95989A;background-size:cover;}
@@ -74,6 +88,7 @@ footer a, footer a:hover {color:#C91419;cursor:pointer;}
 
 /* covers */
 .cover {position:relative;background-attachment:fixed;background-position: center center;background-repeat:no-repeat;background-size:cover;}
+.cover-home {background-image: url('../img/cover-home.jpg');min-height:100%;}
 .cover-band {background-image: url('../img/cover-band.jpg');min-height:100%;}
 .cover-releases {background-image: url('../img/cover-releases.jpg');min-height:60%;}
 .cover-tour-dates {background-image: url('../img/cover-tour-dates.jpg');min-height:60%;}
@@ -81,4 +96,7 @@ footer a, footer a:hover {color:#C91419;cursor:pointer;}
     .cover {background-attachment: scroll;}
 }
 
+/* video */
 iframe {border:none;}
+
+

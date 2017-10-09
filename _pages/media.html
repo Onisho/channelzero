@@ -6,15 +6,15 @@ permalink: /media/
 
 <section class="cover">
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gD4Se5lQf10?autoplay=1&showinfo=0&controls=0&autohide=1" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gD4Se5lQf10?autoplay=0&showinfo=0&controls=0&autohide=1" allowfullscreen></iframe>
 </div>
 </section>
 
-<section class="content">
+<section class="content video">
   <div class="container">
     <div class="row">
       {% for youtube in site.data.youtube %}
-      <div class="col-6">
+      <div class="col-12 col-sm-6 col-md-4">
          <div class="embed-responsive embed-responsive-16by9">
            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{youtube.embed}}?showinfo=0&autohide=1" allowfullscreen></iframe>
         </div> 
@@ -24,6 +24,22 @@ permalink: /media/
     <div class="row">
       <div class="col-12 text-center">
         <a href="https://www.youtube.com/user/thebandchannelzero" role="button" class="btn btn-primary mx-2" rel="external">View more on Youtube</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="content photo mt-5">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-12">
+        <div class="bricklayer">
+          {% for image in site.static_files %}
+          {% if image.path contains 'assets/thumbs' %}
+          <div><a class="chocolat-image" href="{{site.baseurl}}/assets/pictures/{{image.name}}" title="caption image 1"><img src="{{site.baseurl}}{{image.path}}" class="img-fluid" /></a></div>
+          {% endif %}
+          {% endfor %}
+        </div>
       </div>
     </div>
   </div>

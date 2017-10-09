@@ -6,5 +6,9 @@ $(document).ready(function() {
 	 return false;
   });
   
+  // bricklayer.js on media page
+  var bricklayer = new Bricklayer(document.querySelector('.bricklayer'))
+  setTimeout( function() { bricklayer.redraw(); }, 3000);
+  
   
 });

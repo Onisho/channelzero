@@ -13,11 +13,16 @@ instagram: http://www.instagram.com
 navi:
 - name: Tour Dates
   url: /tour-dates
+  class: 
 - name: Band
   url: /band
+  class: 
 - name: Home
   url: /
+  class: home
 - name: Releases
   url: /releases
+  class: 
 - name: Media
   url: /media
+  class: 
