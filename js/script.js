@@ -6,9 +6,16 @@ $(document).ready(function() {
 	 return false;
   });
   
-  // bricklayer.js on media page
-  var bricklayer = new Bricklayer(document.querySelector('.bricklayer'))
-  setTimeout( function() { bricklayer.redraw(); }, 3000);
+  
+  $(window).scroll(function () {
+    if ($(window).scrollTop() > 200) {
+        $('.navbar').css('margin-top', '0');
+    }
+  });
+  
+  $('.chocolat-parent').Chocolat();
+  
+  
   
   
 });

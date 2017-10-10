@@ -6,7 +6,7 @@ permalink: /media/
 
 <section class="cover">
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gD4Se5lQf10?autoplay=0&showinfo=0&controls=0&autohide=1" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gD4Se5lQf10?autoplay=1&showinfo=0&controls=0&autohide=1" allowfullscreen></iframe>
 </div>
 </section>
 
@@ -33,10 +33,10 @@ permalink: /media/
   <div class="container-fluid">
     <div class="row">
       <div class="col-12">
-        <div class="bricklayer">
+        <div class="bricklayer chocolat-parent">
           {% for image in site.static_files %}
           {% if image.path contains 'assets/thumbs' %}
-          <div><a class="chocolat-image" href="{{site.baseurl}}/assets/pictures/{{image.name}}" title="caption image 1"><img src="{{site.baseurl}}{{image.path}}" class="img-fluid" /></a></div>
+          <div><a class="chocolat-image" href="{{site.baseurl}}/assets/pictures/{{image.name}}" title="Channel Zero"><img src="{{site.baseurl}}{{image.path}}" class="img-fluid" /></a></div>
           {% endif %}
           {% endfor %}
         </div>

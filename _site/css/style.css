@@ -1,5 +1,6 @@
 /* import */
 @import url('bricklayer.css');
+@import url('chocolat.css');
 
 /* general */
 body {background-color:#000000;color:#E5E3CC;}
@@ -99,24 +100,8 @@ footer a, footer a:hover {color:#C91419;cursor:pointer;}
 /* video */
 iframe {border:none;}
 
-.caption {
-  position: absolute;
-  bottom: 100%;
-  left: 0;
-  right: 0;
-  background-color: #000000;
-  opacity:.8;
-  overflow: hidden;
-  width: 100%;
-  height:0;
-  transition: .5s ease;
-
-}
-
+.caption {position: absolute;bottom: 100%;left: 0;right: 0;overflow: hidden;width:100%;height:0;transition: .5s ease;}
 .caption a {display:block; width:80%;margin:10px auto;}
-
-.card:hover .caption {
-  bottom: 0;
-  height: 100%;
-}
+.card:hover .caption {bottom:-25;height:100%;}
+.card:hover img {opacity:.6;}
 .card {position:relative;}
