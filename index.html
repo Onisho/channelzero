@@ -63,7 +63,8 @@ title: site
               <span class="year d-block">{{myDate[2]}}</span>
             </div>
             <div class="card-body">
-              <h4 class="card-title alien">{{item.place}}</h4>
+              {% assign ism = item.co | split: ' ' %}
+              <h4 class="card-title alien">{{item.place}}<br /><span class="co"><small>{{ism[0]}}</small> {{ism[1]}}</span></h4>
               <p class="card-subtitle">{{item.gig}}<br /><small>{{item.address}}<br /><a href="https://maps.google.com/?q={{item.address}}" rel="external"><i class="fa fa-map-marker" aria-hidden="true"></i>  map</a></small></p>
               </p>
             </div>
