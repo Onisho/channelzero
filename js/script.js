@@ -10,6 +10,10 @@ $(document).ready(function() {
   $(window).scroll(function () {
     if ($(window).scrollTop() > 200) {
         $('.navbar').css('margin-top', '0');
+        $('.scrolldown').css('opacity', '0');
+    }
+    if ($(window).scrollTop() < 200) {
+        $('.scrolldown').css('opacity', '1');
     }
   });
   

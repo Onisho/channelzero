@@ -73,7 +73,7 @@ a.navbar-brand {color:#E5E3CC;}
   .nav-link {padding-top:5.5rem;}
   .nav-link.Home {background:url('../img/logo.png') no-repeat;width:300px;height:230px;background-size:contain;text-indent:-9999px;}
   .navbar-cz {color:#E5E3CC;background:url('../img/nav.png') 0px 18px repeat-x;}
-  .front .navbar {margin-top:20%;}
+  .front .navbar {margin-top:20%;transition:.5s ease-in-out;-webkit-transition:.5s ease-in-out;-moz-transition:.5s ease-in-out;-ms-transition:.5s ease-in-out;}
 }
 
 
@@ -90,18 +90,28 @@ footer a, footer a:hover {color:#C91419;cursor:pointer;}
 /* covers */
 .cover {position:relative;background-attachment:fixed;background-position: center center;background-repeat:no-repeat;background-size:cover;}
 .cover-home {background-image: url('../img/cover-home.jpg');min-height:100%;}
-.cover-band {background-image: url('../img/cover-band.jpg');min-height:100%;}
+.cover-band {background-image: url('../img/cover-band.jpg');min-height:80%;}
 .cover-releases {background-image: url('../img/cover-releases.jpg');min-height:60%;}
 .cover-tour-dates {background-image: url('../img/cover-tour-dates.jpg');min-height:60%;}
 @media only screen and (max-device-width: 1024px) {
     .cover {background-attachment: scroll;}
 }
 
+/* scrolldown */
+.scrolldown {position:absolute;display:block;width:36px;height:100px;background:url('../img/scrolldown.gif') 0 18px no-repeat;bottom:15px;left:0;margin-left:calc(50% - 18px);background-size:contain;float:left;-webkit-transition: opacity 1s ease-in-out;-moz-transition: opacity 1s ease-in-out;-ms-transition: opacity 1s ease-in-out;-o-transition: opacity 1s ease-in-out;transition: opacity 1s ease-in-out;opacity:1;font-size:.8rem;}
+
 /* video */
 iframe {border:none;}
 
+
+/* releases */
 .caption {position: absolute;bottom: 100%;left: 0;right: 0;overflow: hidden;width:100%;height:0;transition: .5s ease;}
 .caption a {display:block; width:80%;margin:10px auto;}
-.card:hover .caption {bottom:-25;height:100%;}
-.card:hover img {opacity:.6;}
+.card:hover .caption {bottom:-60px;height:100%;}
+.card img {-webkit-transition: opacity .5s ease-in-out;-moz-transition: opacity .5s ease-in-out;-ms-transition: opacity .5s ease-in-out;-o-transition: opacity .5s ease-in-out;transition: opacity .5s ease-in-out;opacity:1;}
+.card:hover img {opacity:.5;}
 .card {position:relative;}
+
+/* tour dates */
+.co {font-size:.9rem;font-family:courier;color:#C91419;}
+.co small {color:inherit;}

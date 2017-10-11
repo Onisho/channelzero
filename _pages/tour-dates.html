@@ -13,9 +13,9 @@ permalink: /tour-dates/
         <h1 class="text-center red mt-5">Tour Dates</h1>
         {% assign tourItems = site.data.tour-dates | sort: 'date' %}
         {% for item in tourItems %}
-        <div class="row mb-3 border border-top-0 border-left-0 border-right-0">
+        <div class="row mb-4 pb-2 border border-top-0 border-left-0 border-right-0">
           <div class="col-2 col-sm-2">
-            {% assign myDate = item.date | date_to_string |split: " " %}
+            {% assign myDate = item.date | date_to_string | split: " " %}
             <div class="date d-inline-block">
               <span class="month d-block">{{myDate[1]}}</span>
               <span class="day d-block">{{myDate[0]}}</span>
@@ -23,7 +23,8 @@ permalink: /tour-dates/
             </div>
           </div>
           <div class="col-10 col-sm-6">
-            <h4 class="alien">{{item.place}}</h4>
+            {% assign ism = item.co | split: ' ' %}
+            <h4 class="alien">{{item.place}} <span class="co"><small>{{ism[0]}}</small> {{ism[1]}}</span></h4>
             <p>{{item.gig}}<br /><small>{{item.address}} <a href="https://maps.google.com/?q={{item.address}}" rel="external"><i class="fa fa-map-marker" aria-hidden="true"></i>  map</a></small></p>
           </div>
           <div class="col-12 col-sm-4 mb-3 text-sm-right">
