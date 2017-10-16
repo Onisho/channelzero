@@ -4,7 +4,7 @@ title: site
 permalink: /media/
 ---
 
-<section class="cover">
+<section class="cover cover-video">
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gD4Se5lQf10?autoplay=1&showinfo=0&controls=0&autohide=1" allowfullscreen></iframe>
 </div>
@@ -15,15 +15,16 @@ permalink: /media/
     <div class="row">
       {% for youtube in site.data.youtube %}
       <div class="col-12 col-sm-6 col-md-4">
-         <div class="embed-responsive embed-responsive-16by9">
+        <div class="embed-responsive embed-responsive-16by9">
            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{youtube.embed}}?showinfo=0&autohide=1" allowfullscreen></iframe>
-        </div> 
+        </div>
+        <p class="text-center">{{youtube.name}}</p>
       </div>
       {% endfor %}
     </div>
     <div class="row">
-      <div class="col-12 text-center">
-        <a href="https://www.youtube.com/user/thebandchannelzero" role="button" class="btn btn-primary mx-2" rel="external">View more on Youtube</a>
+      <div class="col-12 text-center my-4">
+        <a href="https://www.youtube.com/user/thebandchannelzero" role="button" class="btn btn-primary mx-2" rel="external">View all on Youtube</a>
       </div>
     </div>
   </div>
@@ -40,6 +41,17 @@ permalink: /media/
           {% endif %}
           {% endfor %}
         </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="credits mt-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <small>Credits:<br /><a href="https://www.facebook.com/christophe.brysse.photographer" rel="external"><span class="fa fa-camera"></span> Christophe Brysse</a> - <a href="http://www.elsieroymans.com/" rel="external"><span class="fa fa-camera"></span> Elsie Roymans</a> - <a href="http://www.baillien.tv" rel="external"><span class="fa fa-film"></span> Pascal Ballien</a></small>
+
       </div>
     </div>
   </div>
