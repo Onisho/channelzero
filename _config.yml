@@ -6,9 +6,6 @@ permalink: /:title/
 title: Channel Zero
 description: Channel Zero is a Belgian heavy metal band, formed in Brussels, Belgium, in 1990. They are one of the best known heavy metal bands from Belgium.
 keywords: channel zero
-baseurl: /bbs
-exclude: ['README.md']
-
 
 #SOCIAL
 twitter: https://twitter.com/officialczero?lang=en
