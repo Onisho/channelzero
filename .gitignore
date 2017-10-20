@@ -1,2 +1,5 @@
-
+_site/
 fonts/.DS_Store
+.jekyll-metadata
+Gemfile.lock
+.DS_Store
