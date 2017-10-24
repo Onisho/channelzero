@@ -24,8 +24,8 @@ permalink: /tour-dates/
             </div>
           </div>
           <div class="col-10 col-sm-6">
-            {% assign ism = item.co | split: ' ' %}
-            <h4 class="alien">{{item.place}} <span class="co"><small>{{ism[0]}}</small> {{ism[1]}}</span></h4>
+            {% assign ism = item.co | split: '-' %}
+            <h4 class="alien">{{item.place}} <a href="http://www.alcatraz.be/en/clubshows" rel="external" title="alcatraz"><span class="co d-block"><small>{{ism[0]}}</small> {{ism[1]}}</span></a></h4>
             <p>{{item.gig}}<br /><small>{{item.address}} <a href="https://maps.google.com/?q={{item.address}}" rel="external"><i class="fa fa-map-marker" aria-hidden="true"></i>  map</a></small></p>
           </div>
           <div class="col-12 col-sm-4 mb-3 text-sm-right">

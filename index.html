@@ -71,10 +71,9 @@ title: Channel Zero
               <span class="year d-block">{{myDate[2]}}</span>
             </div>
             <div class="card-body">
-              {% assign ism = item.co | split: ' ' %}
-              <h4 class="card-title alien">{{item.place}}<br /><span class="co"><small>{{ism[0]}}</small> {{ism[1]}}</span></h4>
+              {% assign ism = item.co | split: '-' %}
+              <h4 class="card-title alien">{{item.place}}<br /><a href="http://www.alcatraz.be/en/clubshows" rel="external" title="alcatraz"><span class="co"><small>{{ism[0]}}</small> {{ism[1]}}</span></a></h4>
               <p class="card-subtitle">{{item.gig}}<br /><small>{{item.address}}<br /><a href="https://maps.google.com/?q={{item.address}}" rel="external"><i class="fa fa-map-marker" aria-hidden="true"></i>  map</a></small></p>
-              </p>
             </div>
             <div class="card-footer">
               <p><a href="{{item.tickets}}" role="button" class="btn btn-primary mx-2" rel="external">Tickets</a></p>
