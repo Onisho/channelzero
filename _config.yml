@@ -17,15 +17,24 @@ navi:
 - name: Tour Dates
   url: /tour-dates
   class: 
+  rel: 
 - name: Band
   url: /band
   class: 
+  rel: 
 - name: Home
   url: /
   class: home
+  rel: 
 - name: Releases
   url: /releases
   class: 
+  rel: 
 - name: Media
   url: /media
   class: 
+  rel: 
+- name: Merch
+  url: https://www.letithappen.be/merch/channelzero
+  class: 
+  rel: external

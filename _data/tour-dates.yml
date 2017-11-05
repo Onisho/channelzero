@@ -4,6 +4,7 @@
   co:
   address: Bootstraat 9, 3500 Hasselt
   tickets: https://www.muziekodroom.be/inloggen/?redir=%2Fconcert%2Fchannel-zero%2Ftickets
+  soldout: 
   info: https://www.muziekodroom.be/concert/channel-zero
   
 - date: 2017-12-09
@@ -12,6 +13,7 @@
   co: in collaboration with - ALCATRAZ
   address: Sint-Pietersnieuwstraat 23, 9000 Gent
   tickets: http://vooruit.be/nl/show/detail/12337/Channel_Zero_Evil_Invaders_King_Hiss
+  soldout: 
   info: http://vooruit.be/nl/show/detail/12337/Channel_Zero_Evil_Invaders_King_Hiss
   
 - date: 2017-12-10
@@ -20,6 +22,7 @@
   co:
   address: Rue de Tubize 28, 1460 Ittre
   tickets: https://booking.utick.be/?POS=ZIKZAK&activityguid=99A512D7-0BB0-D7DC-A52A-202FF1F00B31
+  soldout: 
   info: http://www.zik-zak.be/project/channel-zero/
   
 - date: 2017-12-13
@@ -28,6 +31,7 @@
   co:
   address: Martelarenplein 12, 3000 Leuven
   tickets: https://apps.ticketmatic.com/widgets/hetdepot/addtickets?event=788758283371#/addtickets
+  soldout: 
   info: http://www.hetdepot.be/concert/channel-zero
   
 - date: 2017-12-14
@@ -36,6 +40,7 @@
   co:
   address: Pl. Xavier-Neujean 24, 4000 Liège
   tickets: https://frontoffice.paylogic.nl/flows/MTAuMTAwLjIuNCw1NiwyZjg4MmVhNDJlNTA0OTFlOWIzMmFkZTdlOGZhNjk2OCw0Zjg2MjU0MDY5NmMyNWVhYTEwNmJlOTQ1YTIzZDAyOQ/Tickets/
+  soldout: 
   info: http://www.reflektor.be/agenda/2017/12/14/channel-zero-evil-invaders-king-hiss
   
 - date: 2017-12-15
@@ -44,6 +49,7 @@
   co: in collaboration with - ALCATRAZ
   address: Noordersingel 28-30, 2140 Antwerpen
   tickets: https://apps.ticketmatic.com/widgets/trix/addtickets?event=789822648734&l=nl#/addtickets
+  soldout: 
   info: https://www.trixonline.be/en/program/channel-zero-b-evil-invaders-b-king-hiss-b/1934/
   
 - date: 2017-12-16
@@ -52,6 +58,7 @@
   co: in collaboration with - ALCATRAZ
   address: Conservatoriumplein 1, 8500 Kortrijk
   tickets: https://dekreun.ticketmatic.com/addevent.php?a=eqKhcgXcVjE&e=v0xpXnk3R88&s=80cswBbInpo&l=nl
+  soldout: soldout
   info: http://www.wildewesten.be/nl/event/channel-zero
   
 - date: 2017-12-17
@@ -60,4 +67,5 @@
   co:
   address: Vredenburgkade 11, 3511 WC Utrecht, Netherlands
   tickets: https://tivolivredenburg.iticketsro.com/nl-NL/events/channel%20zero/2017-12-17_19.15/pandora?back=2&area=9e9953e1-8b64-471c-b060-93d3a5346b01&type=ga#_ga=2.136667000.99314578.1505310748-581991208.1505310748
+  soldout: 
   info: https://www.tivolivredenburg.nl/nl/agenda/detail/9726/Channel_Zero

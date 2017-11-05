@@ -52,6 +52,7 @@ small {color:#9a9988;}
 .btn-primary:hover {background-color:#C91419;border-color:#C91419;color:#000000;}
 .btn-secondary {background-color:#E5E3CC;border-color:#E5E3CC;color:#000000;}
 .btn-secondary:hover {background-color:#E5E3CC;border-color:#E5E3CC;color:#C91419;} 
+.btn-primary.disabled, .btn-primary:disabled {background-color: #000000;border-color: #000000;color:#C91419;}
 
 /* cards */
 .card-band,
@@ -121,3 +122,4 @@ iframe {border:none;}
 /* tour dates */
 .co {font-size:.9rem;font-family:courier;color:#C91419;}
 .co small {color:inherit;}
+.soldout {text-transform: uppercase;font-size:1rem;color:#C91419;}
