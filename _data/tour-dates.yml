@@ -46,7 +46,7 @@
   tickets: https://frontoffice.paylogic.nl/flows/MTAuMTAwLjIuNCw1NiwyZjg4MmVhNDJlNTA0OTFlOWIzMmFkZTdlOGZhNjk2OCw0Zjg2MjU0MDY5NmMyNWVhYTEwNmJlOTQ1YTIzZDAyOQ/Tickets/
   soldout: 
   info: http://www.reflektor.be/agenda/2017/12/14/channel-zero-evil-invaders-king-hiss
-  done: 'no'
+  done: 'yes'
   
 - date: 2017-12-15
   place: Antwerp
