@@ -12,7 +12,7 @@ permalink: /tour-dates/
     <div class="row">
       <div class="col-12">
         <h1 class="text-center red mt-5">Tour Dates</h1>
-        {% assign tourItems = site.data.tour-dates | sort: 'date' %}
+        {% assign tourItems = site.data.tour-dates | where: 'done', 'no' | sort: 'date' %}
         {% for item in tourItems %}
         <div class="row mb-4 pb-2 border border-top-0 border-left-0 border-right-0">
           <div class="col-2 col-sm-2">

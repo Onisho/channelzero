@@ -56,7 +56,7 @@
   tickets: https://apps.ticketmatic.com/widgets/trix/addtickets?event=789822648734&l=nl#/addtickets
   soldout: 
   info: https://www.trixonline.be/en/program/channel-zero-b-evil-invaders-b-king-hiss-b/1934/
-  done: 'no'
+  done: 'yes'
   
 - date: 2017-12-16
   place: Kortrijk
@@ -66,7 +66,7 @@
   tickets: https://dekreun.ticketmatic.com/addevent.php?a=eqKhcgXcVjE&e=v0xpXnk3R88&s=80cswBbInpo&l=nl
   soldout: soldout
   info: http://www.wildewesten.be/nl/event/channel-zero
-  done: 'no'
+  done: 'yes'
   
 - date: 2017-12-17
   place: Utrecht, Netherlands
@@ -76,4 +76,25 @@
   tickets: https://tivolivredenburg.iticketsro.com/nl-NL/events/channel%20zero/2017-12-17_19.15/pandora?back=2&area=9e9953e1-8b64-471c-b060-93d3a5346b01&type=ga#_ga=2.136667000.99314578.1505310748-581991208.1505310748
   soldout: 
   info: https://www.tivolivredenburg.nl/nl/agenda/detail/9726/Channel_Zero
+  done: 'yes'
+  
+- date: 2018-06-16
+  place: Zwevezele, Belgium
+  gig: HillRock
+  co:
+  address: Hille, 8750 Zwevezele, Belgium
+  tickets: https://www.dehillefisters.be/
+  soldout: 
+  info: https://www.dehillefisters.be/
   done: 'no'
+  
+- date: 2018-07-28
+  place: Wateringen, Netherlands
+  gig: Waterpop
+  co:
+  address: Hofpark, 2291 CT Wateringen, Netherlands
+  tickets: https://www.waterpop.nl
+  soldout: 
+  info: https://www.waterpop.nl
+  done: 'no'
+  
