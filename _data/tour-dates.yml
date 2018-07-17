@@ -86,15 +86,34 @@
   tickets: https://www.dehillefisters.be/
   soldout: 
   info: https://www.dehillefisters.be/
-  done: 'no'
+  done: 'yes'
   
-- date: 2018-07-28
-  place: Wateringen, Netherlands
-  gig: Waterpop
+- date: 2018-08-31
+  place: Sint-Niklaas, Belgium
+  gig: Villa Pace
   co:
-  address: Hofpark, 2291 CT Wateringen, Netherlands
-  tickets: https://www.waterpop.nl
+  address: Stadsfestival Sint-Niklaas
+  tickets: https://www.villapace.be
   soldout: 
-  info: https://www.waterpop.nl
+  info: https://www.villapace.be
   done: 'no'
   
+- date: 2018-09-07
+  place: Vosselaar, Belgium
+  gig: Biebob
+  co:
+  address: Antwerpsesteenweg 84, 2350 Vosselaar, Belgium
+  tickets: https://www.biebob.be
+  soldout: 
+  info: https://www.biebob.be
+  done: 'no'
+  
+- date: 2018-09-08
+  place: Ieper, Belgium
+  gig: Frietrock
+  co:
+  address: Vandepeereboomplein 42, 8900 Ieper, Belgium
+  tickets: https://frietrockdeleet.be
+  soldout: 
+  info: https://frietrockdeleet.be
+  done: 'no'
