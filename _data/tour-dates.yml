@@ -96,7 +96,7 @@
   tickets: https://www.villapace.be
   soldout: 
   info: https://www.villapace.be
-  done: 'no'
+  done: 'yes'
   
 - date: 2018-09-07
   place: Vosselaar, Belgium
@@ -106,7 +106,7 @@
   tickets: https://www.biebob.be
   soldout: 
   info: https://www.biebob.be
-  done: 'no'
+  done: 'yes'
   
 - date: 2018-09-08
   place: Ieper, Belgium
@@ -116,4 +116,46 @@
   tickets: https://frietrockdeleet.be
   soldout: 
   info: https://frietrockdeleet.be
+  done: 'yes'
+  
+- date: 2019-06-08
+  place: Deinze, Belgium
+  gig: Brielpoort
+  co:
+  address: VLucien Matthyslaan 9, 9800 Deinze, Belgium
+  tickets: https://apps.ticketmatic.com/widgets/miracle2/addtickets?event=222126403616#!/addtickets
+  soldout: 
+  info: http://www.miraclevzw.be/index.php?option=com_content&view=article&id=187:metal-meeting&catid=102&Itemid=101
   done: 'no'
+  
+- date: 2019-08-10
+  place: Wateringen, Netherlands
+  gig: Waterpop
+  co:
+  address: Wateringen, Netherlands
+  tickets: http://waterpop.nl
+  soldout: 
+  info: http://waterpop.nl
+  done: 'no'
+  
+- date: 2019-08-17
+  place: Oostkamp, Belgium
+  gig: Waterpop
+  co:
+  address: Oostkamp, Belgium
+  tickets: http://www.parkpop-oostkamp.be
+  soldout: 
+  info: http://www.parkpop-oostkamp.be
+  done: 'yes'
+  
+- date: 2019-08-23
+  place: Luik, Belgium
+  gig: Golden Age Rock
+  co:
+  address: Luik, Belgium
+  tickets: https://www.facebook.com/goldenagerock/
+  soldout: 
+  info: https://www.facebook.com/goldenagerock/
+  done: 'no'
+  
+  
