@@ -4,60 +4,60 @@
   co:
   address: Bootstraat 9, 3500 Hasselt
   tickets: https://www.muziekodroom.be/inloggen/?redir=%2Fconcert%2Fchannel-zero%2Ftickets
-  soldout: 
+  soldout:
   info: https://www.muziekodroom.be/concert/channel-zero
   done: 'yes'
-  
+
 - date: 2017-12-09
   place: Gent
   gig: Kunstencentrum Vooruit
   co: in collaboration with - ALCATRAZ
   address: Sint-Pietersnieuwstraat 23, 9000 Gent
   tickets: http://vooruit.be/nl/show/detail/12337/Channel_Zero_Evil_Invaders_King_Hiss
-  soldout: 
+  soldout:
   info: http://vooruit.be/nl/show/detail/12337/Channel_Zero_Evil_Invaders_King_Hiss
   done: 'yes'
-  
+
 - date: 2017-12-10
   place: Ittre
   gig: Zik-Zak
   co:
   address: Rue de Tubize 28, 1460 Ittre
   tickets: https://booking.utick.be/?POS=ZIKZAK&activityguid=99A512D7-0BB0-D7DC-A52A-202FF1F00B31
-  soldout: 
+  soldout:
   info: http://www.zik-zak.be/project/channel-zero/
   done: 'yes'
-  
+
 - date: 2017-12-13
   place: Leuven
   gig: Het Depot
   co:
   address: Martelarenplein 12, 3000 Leuven
   tickets: https://apps.ticketmatic.com/widgets/hetdepot/addtickets?event=788758283371#/addtickets
-  soldout: 
+  soldout:
   info: http://www.hetdepot.be/concert/channel-zero
   done: 'yes'
-  
+
 - date: 2017-12-14
   place: Liège
   gig: Reflektor
   co:
   address: Pl. Xavier-Neujean 24, 4000 Liège
   tickets: https://frontoffice.paylogic.nl/flows/MTAuMTAwLjIuNCw1NiwyZjg4MmVhNDJlNTA0OTFlOWIzMmFkZTdlOGZhNjk2OCw0Zjg2MjU0MDY5NmMyNWVhYTEwNmJlOTQ1YTIzZDAyOQ/Tickets/
-  soldout: 
+  soldout:
   info: http://www.reflektor.be/agenda/2017/12/14/channel-zero-evil-invaders-king-hiss
   done: 'yes'
-  
+
 - date: 2017-12-15
   place: Antwerp
   gig: Muziekcentrum Trix
   co: in collaboration with - ALCATRAZ
   address: Noordersingel 28-30, 2140 Antwerpen
   tickets: https://apps.ticketmatic.com/widgets/trix/addtickets?event=789822648734&l=nl#/addtickets
-  soldout: 
+  soldout:
   info: https://www.trixonline.be/en/program/channel-zero-b-evil-invaders-b-king-hiss-b/1934/
   done: 'yes'
-  
+
 - date: 2017-12-16
   place: Kortrijk
   gig: Concertzaal De Kreun
@@ -67,95 +67,93 @@
   soldout: soldout
   info: http://www.wildewesten.be/nl/event/channel-zero
   done: 'yes'
-  
+
 - date: 2017-12-17
   place: Utrecht, Netherlands
   gig: TivoliVrendeburg
   co:
   address: Vredenburgkade 11, 3511 WC Utrecht, Netherlands
   tickets: https://tivolivredenburg.iticketsro.com/nl-NL/events/channel%20zero/2017-12-17_19.15/pandora?back=2&area=9e9953e1-8b64-471c-b060-93d3a5346b01&type=ga#_ga=2.136667000.99314578.1505310748-581991208.1505310748
-  soldout: 
+  soldout:
   info: https://www.tivolivredenburg.nl/nl/agenda/detail/9726/Channel_Zero
   done: 'yes'
-  
+
 - date: 2018-06-16
   place: Zwevezele, Belgium
   gig: HillRock
   co:
   address: Hille, 8750 Zwevezele, Belgium
   tickets: https://www.dehillefisters.be/
-  soldout: 
+  soldout:
   info: https://www.dehillefisters.be/
   done: 'yes'
-  
+
 - date: 2018-08-31
   place: Sint-Niklaas, Belgium
   gig: Villa Pace
   co:
   address: Stadsfestival Sint-Niklaas
   tickets: https://www.villapace.be
-  soldout: 
+  soldout:
   info: https://www.villapace.be
   done: 'yes'
-  
+
 - date: 2018-09-07
   place: Vosselaar, Belgium
   gig: Biebob
   co:
   address: Antwerpsesteenweg 84, 2350 Vosselaar, Belgium
   tickets: https://www.biebob.be
-  soldout: 
+  soldout:
   info: https://www.biebob.be
   done: 'yes'
-  
+
 - date: 2018-09-08
   place: Ieper, Belgium
   gig: Frietrock
   co:
   address: Vandepeereboomplein 42, 8900 Ieper, Belgium
   tickets: https://frietrockdeleet.be
-  soldout: 
+  soldout:
   info: https://frietrockdeleet.be
   done: 'yes'
-  
+
 - date: 2019-06-08
   place: Deinze, Belgium
   gig: Brielpoort
   co:
   address: VLucien Matthyslaan 9, 9800 Deinze, Belgium
   tickets: https://apps.ticketmatic.com/widgets/miracle2/addtickets?event=222126403616#!/addtickets
-  soldout: 
+  soldout:
   info: http://www.miraclevzw.be/index.php?option=com_content&view=article&id=187:metal-meeting&catid=102&Itemid=101
   done: 'no'
-  
+
 - date: 2019-08-10
   place: Wateringen, Netherlands
   gig: Waterpop
   co:
   address: Wateringen, Netherlands
   tickets: http://waterpop.nl
-  soldout: 
+  soldout:
   info: http://waterpop.nl
   done: 'no'
-  
+
 - date: 2019-08-17
   place: Oostkamp, Belgium
   gig: Waterpop
   co:
   address: Oostkamp, Belgium
   tickets: http://www.parkpop-oostkamp.be
-  soldout: 
+  soldout:
   info: http://www.parkpop-oostkamp.be
-  done: 'yes'
-  
+  done: 'no'
+
 - date: 2019-08-23
   place: Luik, Belgium
   gig: Golden Age Rock
   co:
   address: Luik, Belgium
   tickets: https://www.facebook.com/goldenagerock/
-  soldout: 
+  soldout:
   info: https://www.facebook.com/goldenagerock/
   done: 'no'
-  
-  
