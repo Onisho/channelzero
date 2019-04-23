@@ -157,3 +157,43 @@
   soldout:
   info: https://www.facebook.com/goldenagerock/
   done: 'no'
+  
+- date: 2019-06-09
+  place: Zottegem, Belgium
+  gig: Egmont Rock Festival
+  co:
+  address: Zottegem, Belgium
+  tickets: https://www.letithappen.be/
+  soldout:
+  info: https://www.letithappen.be/
+  done: 'no'
+  
+- date: 2019-08-02
+  place: Steenwijkerwold, Netherlands
+  gig: Dicky Woodstock Festival
+  co:
+  address: Steenwijkerwold, Netherlands
+  tickets: https://www.dickywoodstock.com/koartie-kopen/
+  soldout:
+  info: https://www.dickywoodstock.com
+  done: 'no'
+  
+- date: 2019-08-27
+  place: Dendermonde, Belgium
+  gig: Le Jardin Creole
+  co:
+  address: Kerkstraat 28, 9200 Dendermonde, Belgium
+  tickets: https://www.event-tickets.be/Event/1mxCbGWw94g9B4nAb6tJAnzYSKCXFTUrgMwjTynQ?fbclid=IwAR0MFnz0Qms-xipSQRNEX0CJorFJ8WtpD8z2broka_ZP0HrmZm4uAKFqLIg
+  soldout:
+  info: https://www.facebook.com/lejardincreoledendermonde/
+  done: 'no'
+  
+- date: 2019-09-19
+  place: Hamont Achel, Belgium
+  gig: De Posthoorn
+  co:
+  address: Groenstraat 6, 3930 Hamont-Achel, Belgium
+  tickets: https://ticketshop.ticketmatic.com/hamontachel/shop?l=nl
+  soldout:
+  info: https://aha.hamont-achel.be/activiteitendetail/1796/channel-zero-voorprogramma-speed-queen
+  done: 'no'
