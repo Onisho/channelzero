@@ -157,7 +157,7 @@
   soldout:
   info: https://www.facebook.com/goldenagerock/
   done: 'no'
-  
+
 - date: 2019-06-09
   place: Zottegem, Belgium
   gig: Egmont Rock Festival
@@ -167,7 +167,7 @@
   soldout:
   info: https://www.letithappen.be/
   done: 'no'
-  
+
 - date: 2019-08-02
   place: Steenwijkerwold, Netherlands
   gig: Dicky Woodstock Festival
@@ -177,7 +177,27 @@
   soldout:
   info: https://www.dickywoodstock.com
   done: 'no'
-  
+
+- date: 2019-08-10
+  place: Wilrijk, Belgium
+  gig: Willrock festival
+  co:
+  address: Sint-Bavostraat, 2610 Antwerpen, Belgium
+  tickets: https://www.willrock.be/
+  soldout:
+  info: https://www.willrock.be/
+  done: 'no'
+
+- date: 2019-08-24
+  place: Heist-op-den-Berg, Belgium
+  gig: Heistival
+  co:
+  address: Heist-op-den-Berg, Belgium
+  tickets: https://www.hestival.be
+  soldout:
+  info: https://www.hestival.be
+  done: 'no'
+
 - date: 2019-08-27
   place: Dendermonde, Belgium
   gig: Le Jardin Creole
@@ -187,7 +207,17 @@
   soldout:
   info: https://www.facebook.com/lejardincreoledendermonde/
   done: 'no'
-  
+
+- date: 2019-09-14
+  place: Tiegem, Belgium
+  gig: Tiegem Rockt
+  co:
+  address: Tiegem, Belgium
+  tickets: https://www.tiegemrockt.be/
+  soldout:
+  info: https://www.tiegemrockt.be/
+  done: 'no'
+
 - date: 2019-09-20
   place: Hamont Achel, Belgium
   gig: De Posthoorn
@@ -196,4 +226,14 @@
   tickets: https://ticketshop.ticketmatic.com/hamontachel/shop?l=nl
   soldout:
   info: https://aha.hamont-achel.be/activiteitendetail/1796/channel-zero-voorprogramma-speed-queen
+  done: 'no'
+
+- date: 2019-09-22
+  place: Lichtaart, Belgium
+  gig: Olensfest
+  co:
+  address: Watertorenstraat, 2250 Olen, Belgium
+  tickets: http://www.olensfest.eu/Tickets/
+  soldout:
+  info: http://www.olensfest.eu
   done: 'no'
