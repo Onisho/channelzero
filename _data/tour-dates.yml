@@ -126,7 +126,7 @@
   tickets: https://apps.ticketmatic.com/widgets/miracle2/addtickets?event=222126403616#!/addtickets
   soldout:
   info: http://www.miraclevzw.be/index.php?option=com_content&view=article&id=187:metal-meeting&catid=102&Itemid=101
-  done: 'no'
+  done: 'yes'
 
 - date: 2019-08-10
   place: Wateringen, Netherlands
@@ -166,7 +166,7 @@
   tickets: https://www.letithappen.be/
   soldout:
   info: https://www.letithappen.be/
-  done: 'no'
+  done: 'yes'
 
 - date: 2019-08-02
   place: Steenwijkerwold, Netherlands
@@ -208,6 +208,16 @@
   info: https://www.facebook.com/lejardincreoledendermonde/
   done: 'no'
 
+- date: 2019-09-13
+  place: Scherpenheuvel, Belgium
+  gig: Lolands
+  co:
+  address: Scherpenheuvel, Belgium
+  tickets: https://www.lolands.be/tickets/
+  soldout:
+  info: https://www.lolands.be/
+  done: 'no'
+
 - date: 2019-09-14
   place: Tiegem, Belgium
   gig: Tiegem Rockt
@@ -228,11 +238,11 @@
   info: https://aha.hamont-achel.be/activiteitendetail/1796/channel-zero-voorprogramma-speed-queen
   done: 'no'
 
-- date: 2019-09-22
-  place: Lichtaart, Belgium
+- date: 2019-09-28
+  place: Herentals, Belgium
   gig: Olensfest
-  co:
-  address: Watertorenstraat, 2250 Olen, Belgium
+  co: new date!
+  address: Golfterrein Witbos Noorderwijk (Herentals), Belgium
   tickets: http://www.olensfest.eu/Tickets/
   soldout:
   info: http://www.olensfest.eu
