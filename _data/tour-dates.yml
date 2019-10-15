@@ -136,7 +136,7 @@
   tickets: http://waterpop.nl
   soldout:
   info: http://waterpop.nl
-  done: 'no'
+  done: 'yes'
 
 - date: 2019-08-17
   place: Oostkamp, Belgium
@@ -146,7 +146,7 @@
   tickets: http://www.parkpop-oostkamp.be
   soldout:
   info: http://www.parkpop-oostkamp.be
-  done: 'no'
+  done: 'yes'
 
 - date: 2019-08-23
   place: Luik, Belgium
@@ -156,7 +156,7 @@
   tickets: https://www.facebook.com/goldenagerock/
   soldout:
   info: https://www.facebook.com/goldenagerock/
-  done: 'no'
+  done: 'yes'
 
 - date: 2019-06-09
   place: Zottegem, Belgium
@@ -176,7 +176,7 @@
   tickets: https://www.dickywoodstock.com/koartie-kopen/
   soldout:
   info: https://www.dickywoodstock.com
-  done: 'no'
+  done: 'yes'
 
 - date: 2019-08-10
   place: Wilrijk, Belgium
@@ -186,7 +186,7 @@
   tickets: https://www.willrock.be/
   soldout:
   info: https://www.willrock.be/
-  done: 'no'
+  done: 'yes'
 
 - date: 2019-08-24
   place: Heist-op-den-Berg, Belgium
@@ -196,7 +196,7 @@
   tickets: https://www.hestival.be
   soldout:
   info: https://www.hestival.be
-  done: 'no'
+  done: 'yes'
 
 - date: 2019-08-27
   place: Dendermonde, Belgium
@@ -206,7 +206,7 @@
   tickets: https://www.event-tickets.be/Event/1mxCbGWw94g9B4nAb6tJAnzYSKCXFTUrgMwjTynQ?fbclid=IwAR0MFnz0Qms-xipSQRNEX0CJorFJ8WtpD8z2broka_ZP0HrmZm4uAKFqLIg
   soldout:
   info: https://www.facebook.com/lejardincreoledendermonde/
-  done: 'no'
+  done: 'yes'
 
 - date: 2019-09-13
   place: Scherpenheuvel, Belgium
@@ -216,7 +216,7 @@
   tickets: https://www.lolands.be/tickets/
   soldout:
   info: https://www.lolands.be/
-  done: 'no'
+  done: 'yes'
 
 - date: 2019-09-14
   place: Tiegem, Belgium
@@ -226,7 +226,7 @@
   tickets: https://www.tiegemrockt.be/
   soldout:
   info: https://www.tiegemrockt.be/
-  done: 'no'
+  done: 'yes'
 
 - date: 2019-09-20
   place: Hamont Achel, Belgium
@@ -236,7 +236,7 @@
   tickets: https://ticketshop.ticketmatic.com/hamontachel/shop?l=nl
   soldout:
   info: https://aha.hamont-achel.be/activiteitendetail/1796/channel-zero-voorprogramma-speed-queen
-  done: 'no'
+  done: 'yes'
 
 - date: 2019-09-28
   place: Herentals, Belgium
@@ -246,4 +246,14 @@
   tickets: http://www.olensfest.eu/Tickets/
   soldout:
   info: http://www.olensfest.eu
+  done: 'yes'
+
+- date: 2020-10-30
+  place: Brussels, Belgium
+  gig: AB Brussels
+  co:
+  address: Anspachlaan 110, 1000 Brussels
+  tickets: https://www.abconcerts.be
+  soldout:
+  info: https://www.facebook.com/events/813028432489593/
   done: 'no'
