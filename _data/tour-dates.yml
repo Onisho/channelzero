@@ -264,6 +264,16 @@
   co:
   address: Anspachlaan 110, 1000 Brussels
   tickets: https://www.abconcerts.be/en/agenda/events/30-years-channel-zero-extra-show/21535/
-  soldout:
+  soldout: soldout
   info: https://www.facebook.com/events/731626227354494/
+  done: 'no'
+
+- date: 2020-11-01
+  place: Brussels, Belgium
+  gig: AB Brussels
+  co:
+  address: Anspachlaan 110, 1000 Brussels
+  tickets: https://www.abconcerts.be/nl/agenda/evenementen/30-years-channel-zero-3/21691/
+  soldout:
+  info: https://www.facebook.com/events/126333725456822/
   done: 'no'
