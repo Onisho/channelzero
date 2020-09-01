@@ -248,32 +248,32 @@
   info: http://www.olensfest.eu
   done: 'yes'
 
-- date: 2020-10-30
+- date: 2022-01-20
   place: Brussels, Belgium
   gig: AB Brussels
-  co:
+  co: NEW DATE
   address: Anspachlaan 110, 1000 Brussels
-  tickets: https://www.abconcerts.be/en/agenda/events/30-years-channel-zero/21523/
+  tickets: https://www.abconcerts.be/en/agenda/events/new-date-30-years-channel-zero-1/21523/
   soldout: soldout
   info: https://www.facebook.com/events/813028432489593/
   done: 'no'
 
-- date: 2020-10-31
+- date: 2022-01-21
   place: Brussels, Belgium
   gig: AB Brussels
-  co:
+  co: NEW DATE
   address: Anspachlaan 110, 1000 Brussels
-  tickets: https://www.abconcerts.be/en/agenda/events/30-years-channel-zero-extra-show/21535/
+  tickets: https://www.abconcerts.be/en/agenda/events/new-date-30-years-channel-zero-2/21535/
   soldout: soldout
   info: https://www.facebook.com/events/731626227354494/
   done: 'no'
 
-- date: 2020-11-01
+- date: 2022-01-22
   place: Brussels, Belgium
   gig: AB Brussels
-  co:
+  co: NEW DATE
   address: Anspachlaan 110, 1000 Brussels
-  tickets: https://www.abconcerts.be/nl/agenda/evenementen/30-years-channel-zero-3/21691/
+  tickets: https://www.abconcerts.be/en/agenda/events/new-date-30-years-channel-zero-3/21691/
   soldout:
   info: https://www.facebook.com/events/126333725456822/
   done: 'no'
