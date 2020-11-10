@@ -39,6 +39,7 @@ small {color:#9a9988;}
 .bg-2 {background:url('../img/bg2.jpg') center top no-repeat;color:#000000;background-size:cover;}
 .bg-3 {background:url('../img/bg3.jpg') center top no-repeat;color:#000000;background-size:cover;}
 .bg-4 {background:url('../img/bg4.jpg') center top no-repeat;background-size:cover;}
+.bg-5 {background-color:#c2c1bd;}
 
 /* social */
 .social {display:inline-block;width:45px;height:45px;text-indent:-9999px;}
