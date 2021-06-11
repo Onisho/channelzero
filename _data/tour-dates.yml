@@ -277,3 +277,13 @@
   soldout:
   info: https://www.facebook.com/events/126333725456822/
   done: 'no'
+
+- date: 2021-08-13
+  place: Kortrijk, Belgium
+  gig: Alcatraz festival
+  co:
+  address: Lange Munte, 8500 Kortrijk
+  tickets: https://www.ticketmaster.be/feature/alcatraz/?&language=nl-be&utm_source=alcatraz.be&utm_medium=website&utm_campaign=alcatraz20
+  soldout:
+  info: https://www.alcatraz.be
+  done: 'no'
