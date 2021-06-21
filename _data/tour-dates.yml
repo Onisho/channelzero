@@ -287,3 +287,13 @@
   soldout:
   info: https://www.alcatraz.be
   done: 'no'
+
+- date: 2021-07-25
+  place: Werchter, Belgium
+  gig: Werchter parklife
+  co:
+  address: Festivalpark, Werchter
+  tickets: https://www.ticketmaster.be/artist/werchter-parklife-tickets/1061152?language=nl-be
+  soldout:
+  info: https://www.rockwerchter.be/nl/werchter-parklife/programma
+  done: 'no'
