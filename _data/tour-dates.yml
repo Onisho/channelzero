@@ -286,7 +286,7 @@
   tickets: https://www.ticketmaster.be/feature/alcatraz/?&language=nl-be&utm_source=alcatraz.be&utm_medium=website&utm_campaign=alcatraz20
   soldout:
   info: https://www.alcatraz.be
-  done: 'no'
+  done: 'yes'
 
 - date: 2021-07-25
   place: Werchter, Belgium
@@ -296,4 +296,14 @@
   tickets: https://www.ticketmaster.be/artist/werchter-parklife-tickets/1061152?language=nl-be
   soldout:
   info: https://www.rockwerchter.be/nl/werchter-parklife/programma
+  done: 'yes'
+
+- date: 2021-09-12
+  place: Ieper, Belgium
+  gig: Frietrock Ieper
+  co:
+  address: Festivalpark, Werchter
+  tickets: https://tickets.frietrockieper.be/en
+  soldout:
+  info: https://www.frietrockieper.be/en/schedule/channel-zero/
   done: 'no'
