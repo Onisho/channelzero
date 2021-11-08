@@ -253,8 +253,8 @@
   gig: AB Brussels
   co: NEW DATE
   address: Anspachlaan 110, 1000 Brussels
-  tickets: https://www.abconcerts.be/en/agenda/events/new-date-30-years-channel-zero-1/21523/
-  soldout: soldout
+  tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-1/a105J000001wd4eQAA
+  soldout:
   info: https://www.facebook.com/events/813028432489593/
   done: 'no'
 
@@ -263,8 +263,8 @@
   gig: AB Brussels
   co: NEW DATE
   address: Anspachlaan 110, 1000 Brussels
-  tickets: https://www.abconcerts.be/en/agenda/events/new-date-30-years-channel-zero-2/21535/
-  soldout: soldout
+  tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-2/a105J000001wd4SQAQ
+  soldout:
   info: https://www.facebook.com/events/731626227354494/
   done: 'no'
 
@@ -273,7 +273,7 @@
   gig: AB Brussels
   co: NEW DATE
   address: Anspachlaan 110, 1000 Brussels
-  tickets: https://www.abconcerts.be/en/agenda/events/new-date-30-years-channel-zero-3/21691/
+  tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-3/a105J000001wd21QAA
   soldout:
   info: https://www.facebook.com/events/126333725456822/
   done: 'no'
@@ -306,4 +306,4 @@
   tickets: https://tickets.frietrockieper.be/en
   soldout:
   info: https://www.frietrockieper.be/en/schedule/channel-zero/
-  done: 'no'
+  done: 'yes'
