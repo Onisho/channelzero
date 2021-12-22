@@ -4,7 +4,7 @@ title: Channel Zero
 ---
 
 <section class="cover cover-video text-center">
-   <a href="{{site.baseurl}}/tour-dates" title="tour dates"><img src="{{site.baseurl}}/img/ab-2022.jpg" alt="ab concerts" class="img-fluid"></a>
+   <a href="{{site.baseurl}}/tour-dates" title="tour dates"><img src="{{site.baseurl}}/img/ab-2023.jpg" alt="ab concerts" class="img-fluid"></a>
 </section>
 
 <!--
@@ -71,6 +71,7 @@ title: Channel Zero
               {% assign ism = item.co | split: '-' %}
               <h4 class="card-title alien">{{item.place}}<br /><a href="http://www.alcatraz.be/en/clubshows" rel="external" title="alcatraz"><span class="co"><small>{{ism[0]}}</small> {{ism[1]}}</span></a></h4>
               <p class="card-subtitle">{{item.gig}}<br /><small>{{item.address}}<br /><a href="https://maps.google.com/?q={{item.address}}" rel="external"><i class="fa fa-map-marker" aria-hidden="true"></i>  map</a></small></p>
+              {% if item.support %}<small class="card-subtitle text-uppercase">Support:<br>{{item.support}}</small> {% endif %}
             </div>
             <div class="card-footer">
               <p>{% if item.soldout != "soldout" %}

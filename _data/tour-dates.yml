@@ -248,36 +248,6 @@
   info: http://www.olensfest.eu
   done: 'yes'
 
-- date: 2022-01-20
-  place: Brussels, Belgium
-  gig: AB Brussels
-  co: NEW DATE
-  address: Anspachlaan 110, 1000 Brussels
-  tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-1/a105J000001wd4eQAA
-  soldout:
-  info: https://www.facebook.com/events/813028432489593/
-  done: 'no'
-
-- date: 2022-01-21
-  place: Brussels, Belgium
-  gig: AB Brussels
-  co: NEW DATE
-  address: Anspachlaan 110, 1000 Brussels
-  tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-2/a105J000001wd4SQAQ
-  soldout:
-  info: https://www.facebook.com/events/731626227354494/
-  done: 'no'
-
-- date: 2022-01-22
-  place: Brussels, Belgium
-  gig: AB Brussels
-  co: NEW DATE
-  address: Anspachlaan 110, 1000 Brussels
-  tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-3/a105J000001wd21QAA
-  soldout:
-  info: https://www.facebook.com/events/126333725456822/
-  done: 'no'
-
 - date: 2021-08-13
   place: Kortrijk, Belgium
   gig: Alcatraz festival
@@ -307,3 +277,36 @@
   soldout:
   info: https://www.frietrockieper.be/en/schedule/channel-zero/
   done: 'yes'
+
+- date: 2023-05-11
+  place: Brussels, Belgium
+  gig: AB Brussels
+  co:
+  support: Destroy Humanity
+  address: Anspachlaan 110, 1000 Brussels
+  tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-1/a105J000001wd4eQAA
+  soldout:
+  info: https://www.facebook.com/events/813028432489593/
+  done: 'no'
+
+- date: 2023-05-12
+  place: Brussels, Belgium
+  gig: AB Brussels
+  co:
+  support: Virgin Prozak
+  address: Anspachlaan 110, 1000 Brussels
+  tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-2/a105J000001wd4SQAQ
+  soldout:
+  info: https://www.facebook.com/events/731626227354494/
+  done: 'no'
+
+- date: 2023-05-13
+  place: Brussels, Belgium
+  gig: AB Brussels
+  co:
+  support: Woyote
+  address: Anspachlaan 110, 1000 Brussels
+  tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-3/a105J000001wd21QAA
+  soldout:
+  info: https://www.facebook.com/events/126333725456822/
+  done: 'no'
