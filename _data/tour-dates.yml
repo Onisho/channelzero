@@ -42,12 +42,23 @@
   info: https://www.facebook.com/events/126333725456822/
   done: 'no'
 
+- date: 2023-05-14
+  place: Weert, Nederland
+  gig: Poppodium De Bosuil
+  co:
+  support:
+  address: Vrakkerveld 2C, 6002 AZ Weert, Nederland
+  tickets: https://www.debosuil.nl/programma/channel-zero/tickets
+  soldout:
+  info: https://www.debosuil.nl/programma/channel-zero/
+  done: 'no'
+
 - date: 2023-05-17
   place: Gistel, Belgium
   gig: CC Zomerloos
   co:
   support:
-  address: Heyvaertlaan 18, 8470 Gistel
+  address: Sportstraat 1, 8470 Gistel
   tickets: https://webshopgistel.recreatex.be/
   soldout:
   info: https://www.gistel.be/channel-zero
