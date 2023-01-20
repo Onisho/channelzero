@@ -74,3 +74,25 @@
   soldout:
   info: https://decasino.be/concert/channel-zero-2/
   done: 'no'
+
+- date: 2023-05-19
+  place: Affligem, Belgium
+  gig: Rock Affligem
+  co:
+  support:
+  address: Pastorijweg 49, 1790 Affligem
+  tickets: https://rockaffligem.be/tickets_2023/
+  soldout:
+  info: https://rockaffligem.be/
+  done: 'no'
+
+- date: 2023-05-20
+  place: Herenthout, Belgium
+  gig: Clamotte Rock
+  co:
+  support:
+  address: Oosterhoven 27, 2270 Herenthout
+  tickets: https://shop.paylogic.com/ae17c08b300443bf8d1c527f39027034/tickets
+  soldout:
+  info: https://clamotterock.be/
+  done: 'no'
