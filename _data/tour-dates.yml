@@ -1,3 +1,14 @@
+- date: 2023-05-09
+  place: Diksmuide, Belgium
+  gig: 4AD
+  co:
+  support:
+  address: Steenweg op Mol 3, 2360 Oud-Turnhout
+  tickets: https://www.4ad.be/nl/events/channel-zero-try-out/
+  soldout: 'soldout'
+  info: https://www.4ad.be/nl/events/channel-zero-try-out/
+  done: 'no'
+
 - date: 2023-05-10
   place: Oud Turnhout, Belgium
   gig: Try-out - Ontmoetingscentrum De Djoelen
@@ -5,7 +16,7 @@
   support:
   address: Steenweg op Mol 3, 2360 Oud-Turnhout
   tickets: https://www.uitinvlaanderen.be/agenda/e/channel-zero-try-out/8becbc30-3c8c-4f6b-919c-a02b63cfa601
-  soldout:
+  soldout: 'soldout'
   info: https://www.uitinvlaanderen.be/agenda/e/channel-zero-try-out/8becbc30-3c8c-4f6b-919c-a02b63cfa601
   done: 'no'
 
@@ -16,18 +27,18 @@
   support: Destroy Humanity
   address: Anspachlaan 110, 1000 Brussels
   tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-1/a105J000001wd4eQAA
-  soldout:
+  soldout: 'soldout'
   info: https://www.facebook.com/events/813028432489593/
   done: 'no'
 
 - date: 2023-05-12
   place: Brussels, Belgium
-  gig: AB Brussels
+  gig: AB Brussels - LAST TICKETS !
   co:
   support: Virgin Prozak
   address: Anspachlaan 110, 1000 Brussels
   tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-2/a105J000001wd4SQAQ
-  soldout:
+  soldout: 'last tickets'
   info: https://www.facebook.com/events/731626227354494/
   done: 'no'
 
@@ -60,7 +71,7 @@
   support:
   address: Sportstraat 1, 8470 Gistel
   tickets: https://webshopgistel.recreatex.be/
-  soldout:
+  soldout: 'soldout'
   info: https://www.gistel.be/channel-zero
   done: 'no'
 
@@ -71,7 +82,7 @@
   support:
   address: Stationsstraat 104, 9100 Sint-Niklaas
   tickets: https://decasino.be/concert/channel-zero-2/
-  soldout:
+  soldout: 'soldout'
   info: https://decasino.be/concert/channel-zero-2/
   done: 'no'
 
