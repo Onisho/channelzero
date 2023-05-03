@@ -33,18 +33,18 @@
 
 - date: 2023-05-12
   place: Brussels, Belgium
-  gig: AB Brussels - LAST TICKETS !
+  gig: AB Brussels
   co:
   support: Virgin Prozak
   address: Anspachlaan 110, 1000 Brussels
   tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-2/a105J000001wd4SQAQ
-  soldout: 'last tickets'
+  soldout: 'soldout'
   info: https://www.facebook.com/events/731626227354494/
   done: 'no'
 
 - date: 2023-05-13
   place: Brussels, Belgium
-  gig: AB Brussels
+  gig: AB Brussels - LAST TICKETS!
   co:
   support: Woyote
   address: Anspachlaan 110, 1000 Brussels
