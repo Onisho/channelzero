@@ -7,7 +7,7 @@
   tickets: https://www.4ad.be/nl/events/channel-zero-try-out/
   soldout: 'soldout'
   info: https://www.4ad.be/nl/events/channel-zero-try-out/
-  done: 'no'
+  done: 'yes'
 
 - date: 2023-05-10
   place: Oud Turnhout, Belgium
@@ -18,7 +18,7 @@
   tickets: https://www.uitinvlaanderen.be/agenda/e/channel-zero-try-out/8becbc30-3c8c-4f6b-919c-a02b63cfa601
   soldout: 'soldout'
   info: https://www.uitinvlaanderen.be/agenda/e/channel-zero-try-out/8becbc30-3c8c-4f6b-919c-a02b63cfa601
-  done: 'no'
+  done: 'yes'
 
 - date: 2023-05-11
   place: Brussels, Belgium
@@ -29,7 +29,7 @@
   tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-1/a105J000001wd4eQAA
   soldout: 'soldout'
   info: https://www.facebook.com/events/813028432489593/
-  done: 'no'
+  done: 'yes'
 
 - date: 2023-05-12
   place: Brussels, Belgium
@@ -40,7 +40,7 @@
   tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-2/a105J000001wd4SQAQ
   soldout: 'soldout'
   info: https://www.facebook.com/events/731626227354494/
-  done: 'no'
+  done: 'yes'
 
 - date: 2023-05-13
   place: Brussels, Belgium
@@ -51,7 +51,7 @@
   tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-3/a105J000001wd21QAA
   soldout:
   info: https://www.facebook.com/events/126333725456822/
-  done: 'no'
+  done: 'yes'
 
 - date: 2023-05-14
   place: Weert, Nederland
@@ -62,7 +62,7 @@
   tickets: https://www.debosuil.nl/programma/channel-zero/tickets
   soldout:
   info: https://www.debosuil.nl/programma/channel-zero/
-  done: 'no'
+  done: 'yes'
 
 - date: 2023-05-17
   place: Gistel, Belgium
@@ -73,7 +73,7 @@
   tickets: https://webshopgistel.recreatex.be/
   soldout: 'soldout'
   info: https://www.gistel.be/channel-zero
-  done: 'no'
+  done: 'yes'
 
 - date: 2023-05-18
   place: St Niklaas, Belgium
@@ -84,7 +84,7 @@
   tickets: https://decasino.be/concert/channel-zero-2/
   soldout: 'soldout'
   info: https://decasino.be/concert/channel-zero-2/
-  done: 'no'
+  done: 'yes'
 
 - date: 2023-05-19
   place: Affligem, Belgium
@@ -95,7 +95,7 @@
   tickets: https://rockaffligem.be/tickets_2023/
   soldout:
   info: https://rockaffligem.be/
-  done: 'no'
+  done: 'yes'
 
 - date: 2023-05-20
   place: Herenthout, Belgium
@@ -106,4 +106,70 @@
   tickets: https://shop.paylogic.com/ae17c08b300443bf8d1c527f39027034/tickets
   soldout:
   info: https://clamotterock.be/
+  done: 'yes'
+
+- date: 2023-09-07
+  place: Bilzen, Belgium
+  gig: De bilding Club (Try Out)
+  co:
+  support:
+  address: Eikenlaan 33, 3740 Bilzen
+  tickets: 
+  soldout:
+  info: https://bilzen.be/jeugd
+  done: 'no'
+
+- date: 2023-09-08
+  place: Brugge, Belgium
+  gig: Cactus Club
+  co:
+  support:
+  address: Bargeweg 10, 8000 Brugge
+  tickets: https://shop.ticket.monster/event/channel-zero-in-brugge-cactus-club-op-vrijdag-8--4i4gy9
+  soldout:
+  info: https://show-time.be/channel-zero/2023-09-08/
+  done: 'no'
+
+- date: 2023-09-09
+  place: Kalmthout, Belgium
+  gig: Rock N Rex Festival
+  co:
+  support:
+  address: 2910 Essen, België
+  tickets: http://rockn-rex.be/tickets/
+  soldout:
+  info: http://rockn-rex.be/bands/channel-zero/
+  done: 'no'
+
+- date: 2023-09-14
+  place: Nazareth, Belgium
+  gig: Popallure Club
+  co:
+  support:
+  address: Steenweg Deinze 85, 9810 Nazareth
+  tickets: https://popallure.be/event/channel-zero/
+  soldout:
+  info: https://popallure.be/event/channel-zero/
+  done: 'no'
+
+- date: 2023-09-15
+  place: Scherpenheuvel, Belgium
+  gig: Lolands Festival
+  co:
+  support:
+  address: Houwaartstraat 59, 3270 Scherpenheuvel-Zichem
+  tickets: https://www.lolands.be/#tickets
+  soldout:
+  info: https://www.lolands.be/line-up/
+  done: 'no'
+
+- date: 2023-09-16
+  place: Rupelmonde, Belgium
+  gig: Repmond Rock Festival
+  co:
+  support:
+  address: Nederstraat / 't Eilandje, Rupelmonde, Belgium
+  tickets: https://repmond-rock-2023.eventsquare.store/nl/erb5wbmj4mbm/pwxy417wauy8
+  soldout:
+  info: https://www.repmondrock.be/
   done: 'no'
