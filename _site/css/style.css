@@ -103,6 +103,7 @@ footer a, footer a:hover {color:#C91419;cursor:pointer;}
 }
 @media only screen and (max-width: 768px) {
     .cover-home {min-height:60%;background-size:cover;margin-top:60px;}
+    .cover-video {margin-top:50px;}
 }
 
 /* scrolldown */
