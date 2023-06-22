@@ -141,6 +141,17 @@
   info: http://rockn-rex.be/bands/channel-zero/
   done: 'no'
 
+- date: 2023-09-13
+  place: Brugge, Belgium
+  gig: Cacctus Club
+  co:
+  support:
+  address: Bargeweg 10, 8000 Brugge
+  tickets: https://show-time.be/channel-zero/2023-09-13/
+  soldout:
+  info: https://www.cactusmusic.be/NL/Concerten/Kalender/channelzero-extra
+  done: 'no'
+
 - date: 2023-09-14
   place: Nazareth, Belgium
   gig: Popallure Club
