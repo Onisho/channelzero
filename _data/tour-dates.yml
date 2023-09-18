@@ -115,7 +115,7 @@
   support:
   address: Eikenlaan 33, 3740 Bilzen
   tickets: 
-  soldout:
+  soldout: 'soldout'
   info: https://bilzen.be/jeugd
   done: 'no'
 
@@ -126,7 +126,7 @@
   support:
   address: Bargeweg 10, 8000 Brugge
   tickets: https://shop.ticket.monster/event/channel-zero-in-brugge-cactus-club-op-vrijdag-8--4i4gy9
-  soldout:
+  soldout: 'soldout'
   info: https://show-time.be/channel-zero/2023-09-08/
   done: 'no'
 
@@ -148,7 +148,7 @@
   support:
   address: Bargeweg 10, 8000 Brugge
   tickets: https://show-time.be/channel-zero/2023-09-13/
-  soldout:
+  soldout: 
   info: https://www.cactusmusic.be/NL/Concerten/Kalender/channelzero-extra
   done: 'no'
 
@@ -159,7 +159,7 @@
   support:
   address: Steenweg Deinze 85, 9810 Nazareth
   tickets: https://popallure.be/event/channel-zero/
-  soldout:
+  soldout: 'soldout'
   info: https://popallure.be/event/channel-zero/
   done: 'no'
 
@@ -170,7 +170,7 @@
   support:
   address: Houwaartstraat 59, 3270 Scherpenheuvel-Zichem
   tickets: https://www.lolands.be/#tickets
-  soldout:
+  soldout: 'soldout'
   info: https://www.lolands.be/line-up/
   done: 'no'
 
