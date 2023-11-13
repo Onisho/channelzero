@@ -184,3 +184,14 @@
   soldout:
   info: https://www.repmondrock.be/
   done: 'no'
+
+- date: 2024-08-09
+  place: Kortrijk, Belgium
+  gig: Alcatraz Open Air
+  co:
+  support:
+  address: bad godesberglaan 22, Kortrijk, Belgium
+  tickets: https://www.alcatraz.be/en/tickets
+  soldout:
+  info: https://www.alcatraz.be
+  done: 'no'
