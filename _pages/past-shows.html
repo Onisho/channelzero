@@ -1,0 +1,26 @@
+---
+layout: default
+title: past shows
+description: Exit Humanity tour dates in Belgium and The Netherlands
+permalink: /past-shows/
+---
+
+<section class="cover cover-tour-dates"></section>
+
+<section class="content bg-1">
+  <div class="container">
+    <div class="row small">
+      <div class="col-12">
+        <h1 class="text-center red mt-5">Past shows</h1>
+        {% assign shows = site.data.shows %}
+        {% for show in shows %}
+        <div class="row text-center past-show py-1">
+          <div class="col-2 col-sm-3 text-right"><span>{{show.year}}</span></div>
+          <div class="col-6 col-sm-6 text-center"><span>{{show.place}}</span></div>
+          <div class="col-4 col-sm-3 text-left"><span>{{show.tickets}}</span></div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

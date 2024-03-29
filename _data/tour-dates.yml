@@ -1,189 +1,47 @@
-- date: 2023-05-09
-  place: Diksmuide, Belgium
-  gig: 4AD
+- date: 2024-07-27
+  place: Olmen, Belgium
+  gig: Rock Olmen
   co:
   support:
-  address: Kleine Dijk 57, 8600 Diksmuide
-  tickets: https://www.4ad.be/nl/events/channel-zero-try-out/
-  soldout: 'soldout'
-  info: https://www.4ad.be/nl/events/channel-zero-try-out/
-  done: 'yes'
-
-- date: 2023-05-10
-  place: Oud Turnhout, Belgium
-  gig: Try-out - Ontmoetingscentrum De Djoelen
-  co:
-  support:
-  address: Steenweg op Mol 3, 2360 Oud-Turnhout
-  tickets: https://www.uitinvlaanderen.be/agenda/e/channel-zero-try-out/8becbc30-3c8c-4f6b-919c-a02b63cfa601
-  soldout: 'soldout'
-  info: https://www.uitinvlaanderen.be/agenda/e/channel-zero-try-out/8becbc30-3c8c-4f6b-919c-a02b63cfa601
-  done: 'yes'
-
-- date: 2023-05-11
-  place: Brussels, Belgium
-  gig: AB Brussels
-  co:
-  support: Destroy Humanity
-  address: Anspachlaan 110, 1000 Brussels
-  tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-1/a105J000001wd4eQAA
-  soldout: 'soldout'
-  info: https://www.facebook.com/events/813028432489593/
-  done: 'yes'
-
-- date: 2023-05-12
-  place: Brussels, Belgium
-  gig: AB Brussels
-  co:
-  support: Virgin Prozak
-  address: Anspachlaan 110, 1000 Brussels
-  tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-2/a105J000001wd4SQAQ
-  soldout: 'soldout'
-  info: https://www.facebook.com/events/731626227354494/
-  done: 'yes'
-
-- date: 2023-05-13
-  place: Brussels, Belgium
-  gig: AB Brussels - LAST TICKETS!
-  co:
-  support: Woyote
-  address: Anspachlaan 110, 1000 Brussels
-  tickets: https://www.abconcerts.be/en/agenda/new-date-30-years-channel-zero-3/a105J000001wd21QAA
+  address: Stotert 53, 2491 Balen
+  tickets: https://tickets.rockolmen.be/selection
   soldout:
-  info: https://www.facebook.com/events/126333725456822/
-  done: 'yes'
+  info: http://rockolmen.be/
+  done: 'no'
 
-- date: 2023-05-14
-  place: Weert, Nederland
-  gig: Poppodium De Bosuil
+- date: 2024-08-01
+  place: Deurne, Belgium
+  gig: OLT Rivierenhof
   co:
   support:
-  address: Vrakkerveld 2C, 6002 AZ Weert, Nederland
-  tickets: https://www.debosuil.nl/programma/channel-zero/tickets
+  address: Turnhoutsebaan 246, 2100 Deurne
+  tickets: https://www.oltrivierenhof.be/nl/programma/channel-zero/a0NP5000000rMnBMAU
   soldout:
-  info: https://www.debosuil.nl/programma/channel-zero/
-  done: 'yes'
+  info: https://www.oltrivierenhof.be/nl/programma/channel-zero/a0NP5000000rMnBMAU
+  done: 'no'
 
-- date: 2023-05-17
-  place: Gistel, Belgium
-  gig: CC Zomerloos
+- date: 2024-08-03
+  place: Lommel, Belgium
+  gig: Rockwood
   co:
   support:
-  address: Sportstraat 1, 8470 Gistel
-  tickets: https://webshopgistel.recreatex.be/
-  soldout: 'soldout'
-  info: https://www.gistel.be/channel-zero
-  done: 'yes'
-
-- date: 2023-05-18
-  place: St Niklaas, Belgium
-  gig: Casino
-  co:
-  support:
-  address: Stationsstraat 104, 9100 Sint-Niklaas
-  tickets: https://decasino.be/concert/channel-zero-2/
-  soldout: 'soldout'
-  info: https://decasino.be/concert/channel-zero-2/
-  done: 'yes'
-
-- date: 2023-05-19
-  place: Affligem, Belgium
-  gig: Rock Affligem
-  co:
-  support:
-  address: Pastorijweg 49, 1790 Affligem
-  tickets: https://rockaffligem.be/tickets_2023/
+  address: Frans van Hamstraat 5, 3920 Lommel
+  tickets: https://www.ccdeadelberg.be/programma/645/het-festival-in-lommel-uit-de-jaren-90-is-terug/rockwood-lommel
   soldout:
-  info: https://rockaffligem.be/
-  done: 'yes'
+  info: https://rockwoodlommel.be/band/channel-zero
+  done: 'no'
 
-- date: 2023-05-20
-  place: Herenthout, Belgium
-  gig: Clamotte Rock
+- date: 2024-08-06
+  place: Lokeren, Belgium
+  gig: Fonnefeesten
   co:
   support:
-  address: Oosterhoven 27, 2270 Herenthout
-  tickets: https://shop.paylogic.com/ae17c08b300443bf8d1c527f39027034/tickets
+  address: Prosper Thuysbaertlaan, 9160 Lokeren
+  tickets: https://www.fonnefeesten.be/
   soldout:
-  info: https://clamotterock.be/
-  done: 'yes'
-
-- date: 2023-09-07
-  place: Bilzen, Belgium
-  gig: De bilding Club (Try Out)
-  co:
-  support:
-  address: Eikenlaan 33, 3740 Bilzen
-  tickets: 
-  soldout: 'soldout'
-  info: https://bilzen.be/jeugd
+  info: https://www.fonnefeesten.be/
   done: 'no'
 
-- date: 2023-09-08
-  place: Brugge, Belgium
-  gig: Cactus Club
-  co:
-  support:
-  address: Bargeweg 10, 8000 Brugge
-  tickets: https://shop.ticket.monster/event/channel-zero-in-brugge-cactus-club-op-vrijdag-8--4i4gy9
-  soldout: 'soldout'
-  info: https://show-time.be/channel-zero/2023-09-08/
-  done: 'no'
-
-- date: 2023-09-09
-  place: Essen, Belgium
-  gig: Rock N Rex Festival
-  co:
-  support:
-  address: 2910 Essen, België
-  tickets: http://rockn-rex.be/tickets/
-  soldout:
-  info: http://rockn-rex.be/bands/channel-zero/
-  done: 'no'
-
-- date: 2023-09-13
-  place: Brugge, Belgium
-  gig: Cactus Club
-  co:
-  support:
-  address: Bargeweg 10, 8000 Brugge
-  tickets: https://show-time.be/channel-zero/2023-09-13/
-  soldout: 
-  info: https://www.cactusmusic.be/NL/Concerten/Kalender/channelzero-extra
-  done: 'no'
-
-- date: 2023-09-14
-  place: Nazareth, Belgium
-  gig: Popallure Club
-  co:
-  support:
-  address: Steenweg Deinze 85, 9810 Nazareth
-  tickets: https://popallure.be/event/channel-zero/
-  soldout: 'soldout'
-  info: https://popallure.be/event/channel-zero/
-  done: 'no'
-
-- date: 2023-09-15
-  place: Scherpenheuvel, Belgium
-  gig: Lolands Festival
-  co:
-  support:
-  address: Houwaartstraat 59, 3270 Scherpenheuvel-Zichem
-  tickets: https://www.lolands.be/#tickets
-  soldout: 'soldout'
-  info: https://www.lolands.be/line-up/
-  done: 'no'
-
-- date: 2023-09-16
-  place: Rupelmonde, Belgium
-  gig: Repmond Rock Festival
-  co:
-  support:
-  address: Nederstraat / 't Eilandje, Rupelmonde, Belgium
-  tickets: https://repmond-rock-2023.eventsquare.store/nl/erb5wbmj4mbm/pwxy417wauy8
-  soldout:
-  info: https://www.repmondrock.be/
-  done: 'no'
 
 - date: 2024-08-09
   place: Kortrijk, Belgium
@@ -194,4 +52,37 @@
   tickets: https://www.alcatraz.be/en/tickets
   soldout:
   info: https://www.alcatraz.be
+  done: 'no'
+
+- date: 2024-08-14
+  place: Oostende, Belgium
+  gig: Paulusfeesten
+  co:
+  support:
+  address: Sint-Petrus-en-Paulusplein 1, 8400 Oostende
+  tickets: https://paulusfeesten.be/
+  soldout:
+  info: https://paulusfeesten.be/
+  done: 'no'
+
+- date: 2024-08-23
+  place: Mechelen, Belgium
+  gig: Maanrock
+  co:
+  support:
+  address: Sint-Petrus-en-Paulusplein 1, 8400 Oostende
+  tickets: https://www.maanrock.be/
+  soldout:
+  info: https://www.maanrock.be/
+  done: 'no'
+
+- date: 2024-08-24
+  place: Torhout, Belgium
+  gig: Land of love
+  co:
+  support:
+  address: Steenveldstraat, 8820 Torhout
+  tickets: https://www.landoflove.be/ticket
+  soldout:
+  info: https://www.landoflove.be
   done: 'no'
