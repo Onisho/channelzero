@@ -7,7 +7,7 @@
   tickets: https://tickets.rockolmen.be/selection
   soldout:
   info: http://rockolmen.be/
-  done: 'no'
+  done: 'yes'
 
 - date: 2024-08-01
   place: Deurne, Belgium
@@ -18,7 +18,7 @@
   tickets: https://www.oltrivierenhof.be/nl/programma/channel-zero/a0NP5000000rMnBMAU
   soldout:
   info: https://www.oltrivierenhof.be/nl/programma/channel-zero/a0NP5000000rMnBMAU
-  done: 'no'
+  done: 'yes'
 
 - date: 2024-08-03
   place: Lommel, Belgium
@@ -29,7 +29,7 @@
   tickets: https://www.ccdeadelberg.be/programma/645/het-festival-in-lommel-uit-de-jaren-90-is-terug/rockwood-lommel
   soldout:
   info: https://rockwoodlommel.be/band/channel-zero
-  done: 'no'
+  done: 'yes'
 
 - date: 2024-08-06
   place: Lokeren, Belgium
@@ -40,7 +40,7 @@
   tickets: https://www.fonnefeesten.be/
   soldout:
   info: https://www.fonnefeesten.be/
-  done: 'no'
+  done: 'yes'
 
 - date: 2024-08-07
   place: Wavre, Belgium
@@ -51,7 +51,7 @@
   tickets: https://shop.utick.net/?module=QUANTITY&q=D01EAB22-729D-AE30-69B4-EA8E24FF4662&pos=LASUCRERIEWAVRE
   soldout:
   info: https://lasucreriewavre.be/agenda/channel-zero
-  done: 'no'
+  done: 'yes'
 
 
 - date: 2024-08-09
@@ -63,7 +63,7 @@
   tickets: https://www.alcatraz.be/en/tickets
   soldout:
   info: https://www.alcatraz.be
-  done: 'no'
+  done: 'yes'
 
 - date: 2024-08-14
   place: Oostende, Belgium
@@ -74,7 +74,7 @@
   tickets: https://paulusfeesten.be/
   soldout:
   info: https://paulusfeesten.be/
-  done: 'no'
+  done: 'yes'
 
 - date: 2024-08-23
   place: Mechelen, Belgium
@@ -85,7 +85,7 @@
   tickets: https://www.maanrock.be/
   soldout:
   info: https://www.maanrock.be/
-  done: 'no'
+  done: 'yes'
 
 - date: 2024-08-24
   place: Torhout, Belgium
@@ -96,4 +96,26 @@
   tickets: https://www.landoflove.be/ticket
   soldout:
   info: https://www.landoflove.be
+  done: 'yes'
+
+- date: 2026-12-12
+  place: Brussels, Belgium
+  gig: Ancienne Belgique
+  co:
+  support:
+  address: Anspachlaan 110, 1000 Brussels
+  tickets: https://www.abconcerts.be/en/agenda/channel-zero/a10Qw000003bNiNIAU
+  soldout: soldout
+  info: https://www.abconcerts.be/en/agenda/channel-zero/a10Qw000003bNiNIAU
+  done: 'no'
+
+- date: 2026-12-11
+  place: Brussels, Belgium
+  gig: Ancienne Belgique
+  co:
+  support:
+  address: Anspachlaan 110, 1000 Brussels
+  tickets: https://www.abconcerts.be/en/agenda/channel-zero/a10Qw000003bNiMIAU
+  soldout:
+  info: https://www.abconcerts.be/en/agenda/channel-zero/a10Qw000003bNiMIAU
   done: 'no'
