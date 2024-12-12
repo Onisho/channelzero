@@ -1,102 +1,91 @@
-- date: 2024-07-27
-  place: Olmen, Belgium
-  gig: Rock Olmen
+
+- date: 2025-05-28
+  place: Sint-Niklaas, Belgium
+  gig: De Casino
   co:
   support:
-  address: Stotert 53, 2491 Balen
-  tickets: https://tickets.rockolmen.be/selection
-  soldout:
-  info: http://rockolmen.be/
-  done: 'yes'
+  address: Stationsstraat 104, 9100 Sint-Niklaas
+  tickets: https://decasino.be/concert/channel-zero-3/
+  soldout: 
+  info: https://decasino.be/concert/channel-zero-3/
+  done: 'no'
 
-- date: 2024-08-01
-  place: Deurne, Belgium
-  gig: OLT Rivierenhof
+- date: 2025-05-29
+  place: Maldegem, Belgium
+  gig: Den Hoogen Pad
   co:
   support:
-  address: Turnhoutsebaan 246, 2100 Deurne
-  tickets: https://www.oltrivierenhof.be/nl/programma/channel-zero/a0NP5000000rMnBMAU
-  soldout:
-  info: https://www.oltrivierenhof.be/nl/programma/channel-zero/a0NP5000000rMnBMAU
-  done: 'yes'
+  address: Elisabethstraat 3, 9991 Maldegem
+  tickets: https://show-time.be/channel-zero/2025-05-29/ 
+  soldout: 
+  info: https://show-time.be/channel-zero/2025-05-29/ 
+  done: 'no'
 
-- date: 2024-08-03
-  place: Lommel, Belgium
-  gig: Rockwood
+- date: 2025-05-30
+  place: Affligem, Belgium
+  gig: Rock Affligem
   co:
   support:
-  address: Frans van Hamstraat 5, 3920 Lommel
-  tickets: https://www.ccdeadelberg.be/programma/645/het-festival-in-lommel-uit-de-jaren-90-is-terug/rockwood-lommel
-  soldout:
-  info: https://rockwoodlommel.be/band/channel-zero
-  done: 'yes'
+  address: Geertruidebaan 6, 1790 Affligem
+  tickets: https://rockaffligem.be/
+  soldout: 
+  info: https://rockaffligem.be/
+  done: 'no'
 
-- date: 2024-08-06
-  place: Lokeren, Belgium
-  gig: Fonnefeesten
+- date: 2025-05-31
+  place: Halle, Belgium
+  gig: Skallyfest
   co:
   support:
-  address: Prosper Thuysbaertlaan, 9160 Lokeren
-  tickets: https://www.fonnefeesten.be/
-  soldout:
-  info: https://www.fonnefeesten.be/
-  done: 'yes'
+  address: Vondel 41, 1500 Halle
+  tickets: https://skallyfest.be/
+  soldout: 
+  info: https://skallyfest.be/
+  done: 'no'
 
-- date: 2024-08-07
-  place: Wavre, Belgium
-  gig: La sucrerie
+- date: 2025-06-05
+  place: Moorslede, Belgium
+  gig: GC Den Bunder
   co:
   support:
-  address: Chemin de la Sucrerie, 2, 1300 Wavre
-  tickets: https://shop.utick.net/?module=QUANTITY&q=D01EAB22-729D-AE30-69B4-EA8E24FF4662&pos=LASUCRERIEWAVRE
-  soldout:
-  info: https://lasucreriewavre.be/agenda/channel-zero
-  done: 'yes'
+  address: Iepersestraat 52B, 8890 Moorslede
+  tickets: https://show-time.be/channel-zero/2025-06-05/
+  soldout: 
+  info: https://show-time.be/channel-zero/2025-06-05/
+  done: 'no'
 
-
-- date: 2024-08-09
-  place: Kortrijk, Belgium
-  gig: Alcatraz Open Air
+- date: 2025-06-06
+  place: Brugge, Belgium
+  gig: Cactus Club
   co:
   support:
-  address: bad godesberglaan 22, Kortrijk, Belgium
-  tickets: https://www.alcatraz.be/en/tickets
-  soldout:
-  info: https://www.alcatraz.be
-  done: 'yes'
+  address: Bargeweg 10, 8000 Brugge
+  tickets: https://show-time.be/channel-zero/2025-06-06/ 
+  soldout: 
+  info: https://show-time.be/channel-zero/2025-06-06/ 
+  done: 'no'
 
-- date: 2024-08-14
-  place: Oostende, Belgium
-  gig: Paulusfeesten
+- date: 2025-06-07
+  place: Maastricht, Nederland
+  gig: South Of Heaven Festival 
   co:
   support:
-  address: Sint-Petrus-en-Paulusplein 1, 8400 Oostende
-  tickets: https://paulusfeesten.be/
-  soldout:
-  info: https://paulusfeesten.be/
-  done: 'yes'
+  address: Lage Frontweg 9, Maastricht, Nederland
+  tickets: https://www.ticketmaster.nl/event/2089767253
+  soldout: 
+  info: https://www.ticketmaster.nl/event/2089767253
+  done: 'no'
 
-- date: 2024-08-23
-  place: Mechelen, Belgium
-  gig: Maanrock
+- date: 2025-06-08
+  place: Leffinge, Belgium
+  gig: CC De Zwerver
   co:
   support:
-  address: Sint-Petrus-en-Paulusplein 1, 8400 Oostende
-  tickets: https://www.maanrock.be/
-  soldout:
-  info: https://www.maanrock.be/
-  done: 'yes'
-
-- date: 2024-08-24
-  place: Torhout, Belgium
-  gig: Land of love
-  co:
-  support:
-  address: Steenveldstraat, 8820 Torhout
-  tickets: https://www.landoflove.be/ticket
-  soldout:
-  info: https://www.landoflove.be
-  done: 'yes'
+  address: Dorpsstraat 95, 8432 Middelkerke
+  tickets: https://show-time.be/channel-zero/2025-06-08/ 
+  soldout: 
+  info: https://show-time.be/channel-zero/2025-06-08/ 
+  done: 'no'
 
 - date: 2026-12-12
   place: Brussels, Belgium
