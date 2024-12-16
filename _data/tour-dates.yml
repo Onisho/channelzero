@@ -87,6 +87,28 @@
   info: https://show-time.be/channel-zero/2025-06-08/ 
   done: 'no'
 
+- date: 2026-12-10
+  place: Brussels, Belgium
+  gig: Ancienne Belgique
+  co:
+  support:
+  address: Anspachlaan 110, 1000 Brussels
+  tickets: https://www.abconcerts.be/en/agenda/channel-zero/a10Qw000003bNiLIAU
+  soldout:
+  info: https://www.abconcerts.be/en/agenda/channel-zero/a10Qw000003bNiLIAU
+  done: 'no'
+
+- date: 2026-12-11
+  place: Brussels, Belgium
+  gig: Ancienne Belgique
+  co:
+  support:
+  address: Anspachlaan 110, 1000 Brussels
+  tickets: https://www.abconcerts.be/en/agenda/channel-zero/a10Qw000003bNiMIAU
+  soldout: soldout
+  info: https://www.abconcerts.be/en/agenda/channel-zero/a10Qw000003bNiMIAU
+  done: 'no'
+
 - date: 2026-12-12
   place: Brussels, Belgium
   gig: Ancienne Belgique
@@ -98,13 +120,3 @@
   info: https://www.abconcerts.be/en/agenda/channel-zero/a10Qw000003bNiNIAU
   done: 'no'
 
-- date: 2026-12-11
-  place: Brussels, Belgium
-  gig: Ancienne Belgique
-  co:
-  support:
-  address: Anspachlaan 110, 1000 Brussels
-  tickets: https://www.abconcerts.be/en/agenda/channel-zero/a10Qw000003bNiMIAU
-  soldout:
-  info: https://www.abconcerts.be/en/agenda/channel-zero/a10Qw000003bNiMIAU
-  done: 'no'
