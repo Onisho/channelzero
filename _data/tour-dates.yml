@@ -1,3 +1,13 @@
+- date: 2025-05-27
+  place: Sint-Niklaas, Belgium
+  gig: De Casino
+  co:
+  support:
+  address: Stationsstraat 104, 9100 Sint-Niklaas
+  tickets: https://decasino.be/concert/channel-zero-extra-concert/
+  soldout: 
+  info: https://decasino.be/concert/channel-zero-extra-concert/
+  done: 'no'
 
 - date: 2025-05-28
   place: Sint-Niklaas, Belgium
@@ -6,7 +16,7 @@
   support:
   address: Stationsstraat 104, 9100 Sint-Niklaas
   tickets: https://decasino.be/concert/channel-zero-3/
-  soldout: 
+  soldout: soldout
   info: https://decasino.be/concert/channel-zero-3/
   done: 'no'
 
@@ -17,7 +27,7 @@
   support:
   address: Elisabethstraat 3, 9991 Maldegem
   tickets: https://show-time.be/channel-zero/2025-05-29/ 
-  soldout: 
+  soldout: soldout
   info: https://show-time.be/channel-zero/2025-05-29/ 
   done: 'no'
 
@@ -43,6 +53,17 @@
   info: https://skallyfest.be/
   done: 'no'
 
+- date: 2025-06-01
+  place: Brugge, Belgium
+  gig: Cactus Club
+  co:
+  support:
+  address: Bargeweg 10, 8000 Brugge
+  tickets: https://show-time.be/channel-zero/2025-06-01/
+  soldout: 
+  info: https://show-time.be/channel-zero/2025-06-01/
+  done: 'no'
+
 - date: 2025-06-05
   place: Moorslede, Belgium
   gig: GC Den Bunder
@@ -50,7 +71,7 @@
   support:
   address: Iepersestraat 52B, 8890 Moorslede
   tickets: https://show-time.be/channel-zero/2025-06-05/
-  soldout: 
+  soldout: soldout
   info: https://show-time.be/channel-zero/2025-06-05/
   done: 'no'
 
@@ -61,7 +82,7 @@
   support:
   address: Bargeweg 10, 8000 Brugge
   tickets: https://show-time.be/channel-zero/2025-06-06/ 
-  soldout: 
+  soldout: soldout
   info: https://show-time.be/channel-zero/2025-06-06/ 
   done: 'no'
 
