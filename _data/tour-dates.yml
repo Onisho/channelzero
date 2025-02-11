@@ -119,6 +119,17 @@
   info: https://show-time.be/channel-zero/2025-06-08/ 
   done: 'no'
 
+- date: 2025-06-09
+  place: Turnhout, Belgium
+  gig: De Warande
+  co:
+  support:
+  address: Warandestraat 42, 2300 Turnhout
+  tickets: https://www.warande.be/programma/8544/channel-zero/the-end-of-an-era
+  soldout: 
+  info: https://www.warande.be/programma/8544/channel-zero/the-end-of-an-era
+  done: 'no'
+
 - date: 2026-12-10
   place: Brussels, Belgium
   gig: Ancienne Belgique
