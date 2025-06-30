@@ -5,7 +5,7 @@
   support:
   address: Stationsstraat 104, 9100 Sint-Niklaas
   tickets: https://decasino.be/concert/channel-zero-extra-concert/
-  soldout: 
+  soldout: soldout
   info: https://decasino.be/concert/channel-zero-extra-concert/
   done: 'no'
 
@@ -60,7 +60,7 @@
   support:
   address: Bargeweg 10, 8000 Brugge
   tickets: https://show-time.be/channel-zero/2025-06-01/
-  soldout: 
+  soldout: soldout
   info: https://show-time.be/channel-zero/2025-06-01/
   done: 'no'
 
@@ -71,7 +71,7 @@
   support:
   address: Iepersestraat 52B, 8890 Moorslede
   tickets: https://show-time.be/channel-zero/2025-06-04/
-  soldout: 
+  soldout: soldout
   info: https://show-time.be/channel-zero/2025-06-04/
   done: 'no'
 
@@ -115,19 +115,74 @@
   support:
   address: Dorpsstraat 95, 8432 Middelkerke
   tickets: https://show-time.be/channel-zero/2025-06-08/ 
-  soldout: 
+  soldout: soldout
   info: https://show-time.be/channel-zero/2025-06-08/ 
   done: 'no'
 
 - date: 2025-06-09
   place: Turnhout, Belgium
   gig: De Warande
-  co:
+  co: last tickets
   support:
   address: Warandestraat 42, 2300 Turnhout
   tickets: https://www.warande.be/programma/8544/channel-zero/the-end-of-an-era
   soldout: 
   info: https://www.warande.be/programma/8544/channel-zero/the-end-of-an-era
+  done: 'no'
+
+- date: 2025-08-22
+  place: Aarschot, Belgium
+  gig: Stadsfeestzaal Aarschot 
+  co: 
+  support:
+  address: Demervallei 14, 3200 Aarschot
+  tickets: https://channel-zero.eventsquare.store/nl/sihfwo55plzt/3ci0dkajb8a0
+  soldout: 
+  info: https://channel-zero.eventsquare.store/nl/sihfwo55plzt/3ci0dkajb8a0
+  done: 'no'
+
+- date: 2025-08-23
+  place: Oostkamp, Belgium
+  gig: Parkpop
+  co: 
+  support:
+  address: eukenpark Oostkamp, Belgium
+  tickets: https://www.parkpop-oostkamp.be/programma/channel-zero
+  soldout: 
+  info: https://www.parkpop-oostkamp.be/programma/channel-zero
+  done: 'no'
+
+- date: 2025-08-28
+  place: Bilzen, Belgium
+  gig: Bilding Sessions
+  co: 
+  support:
+  address: Eikenlaan 33, 3740 Bilzen, Belgium
+  tickets: https://tickets.debilding.be/nl/buyingflow/tickets/28484/56250
+  soldout: 
+  info: https://www.bilzenhoeselt.be/activiteiten/detail/1779/bilding-session-channel-zero
+  done: 'no'
+
+- date: 2025-08-29
+  place: Poperinge, Belgium
+  gig: Marktrock Poperinge
+  co: 
+  support:
+  address: Markt Poperinge, Belgium
+  tickets: https://www.marktrockpoperinge.be/
+  soldout: 
+  info: https://www.marktrockpoperinge.be/
+  done: 'no'
+
+- date: 2025-08-30
+  place: Lebbeke, Belgium
+  gig: CC De Biekorf
+  co: 
+  support:
+  address: Stationsstraat 23 , 9280 Lebbeke
+  tickets: https://www.ccdebiekorf.be/channel-zero-the-end-of-an-era
+  soldout: 
+  info: https://www.ccdebiekorf.be/channel-zero-the-end-of-an-era
   done: 'no'
 
 - date: 2026-12-10
