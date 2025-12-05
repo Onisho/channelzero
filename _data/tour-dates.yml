@@ -185,6 +185,17 @@
   info: https://www.ccdebiekorf.be/channel-zero-the-end-of-an-era
   done: 'no'
 
+- date: 2026-12-05
+  place: Antwerp, Belgium
+  gig: Lotto Arena
+  co:
+  support:
+  address: Schijnpoortweg 119, 2170 Antwerpen
+  tickets: https://gracialive.be/agenda/channel-zero-2026/
+  soldout: 
+  info: https://gracialive.be/agenda/channel-zero-2026/
+  done: 'no'
+
 - date: 2026-12-10
   place: Brussels, Belgium
   gig: Ancienne Belgique
@@ -192,7 +203,7 @@
   support:
   address: Anspachlaan 110, 1000 Brussels
   tickets: https://www.abconcerts.be/en/agenda/channel-zero/a10Qw000003bNiLIAU
-  soldout:
+  soldout: soldout
   info: https://www.abconcerts.be/en/agenda/channel-zero/a10Qw000003bNiLIAU
   done: 'no'
 
