@@ -1,3 +1,36 @@
+- date: 2025-05-15
+  place: Antwerpen, Belgium
+  gig: Left festival
+  co:
+  support:
+  address: Thonetlaan 133, 2050 Antwerpen
+  tickets: https://leftfestival2026.tickoweb.be/selection
+  soldout: 
+  info: https://leftfestival2026.tickoweb.be/selection
+  done: 'no'
+
+- date: 2025-05-15
+  place: Affligem, Belgium
+  gig: Rock Affligem
+  co:
+  support:
+  address: Bellekoutercomplex 99, 1790 Affligem
+  tickets: https://my.weezevent.com/rock-affligem-2026
+  soldout: 
+  info: https://rockaffligem.be/
+  done: 'no'
+
+- date: 2025-05-16
+  place: Herenthout, Belgium
+  gig: Clamotte Rock
+  co:
+  support:
+  address: Oosterhoven, 2270 Herenthout
+  tickets: https://clamotterock.be/tickets/
+  soldout: 
+  info: https://clamotterock.be/line-up/
+  done: 'no'
+
 - date: 2025-05-27
   place: Sint-Niklaas, Belgium
   gig: De Casino
@@ -128,6 +161,28 @@
   tickets: https://www.warande.be/programma/8544/channel-zero/the-end-of-an-era
   soldout: 
   info: https://www.warande.be/programma/8544/channel-zero/the-end-of-an-era
+  done: 'no'
+
+- date: 2025-07-18
+  place: Herk-de-Stad, Belgium
+  gig: Rock Herk
+  co: 
+  support:
+  address: St. Truidersteenweg, 3570 Herk-de-Stad
+  tickets: https://rockherk2026.tickoweb.be/selection
+  soldout: 
+  info: https://rockherk.be/nl
+  done: 'no'
+
+- date: 2025-08-06
+  place: Kortrijk, Belgium
+  gig: Alcatraz Festival
+  co: 
+  support:
+  address: Bad Godesberglaan 27, 8500 Kortrijk
+  tickets: https://www.alcatraz.be/nl/tickets
+  soldout: 
+  info: https://www.alcatraz.be/nl/
   done: 'no'
 
 - date: 2025-08-22
